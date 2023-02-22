@@ -1,16 +1,12 @@
-# Welcome to your Jupyter Book
+# USDA NAL Guide to Subject Indexing
 
-This is a small sample book to give you a feel for how book content is
-structured.
 
 :::{note}
-Here is a note!
+Content is pending....
 :::
 
-And here is a code block:
+Code block:
 
 ```
-e = mc^2
+# Example code block.
 ```
-
-Check out the content pages bundled with this sample book to see more.

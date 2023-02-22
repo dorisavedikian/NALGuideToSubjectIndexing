@@ -138,3 +138,20 @@ in-line with the rest of your content.
 
 For more information about executing computational content with Jupyter Book,
 see [The MyST-NB documentation](https://myst-nb.readthedocs.io/).
+
+## Table of Contents
+### Basic Guidelines
+### The Agricola Database
+### MARC Format
+### The NAL Thesaurus (NALT)
+### Workflow
+### Subject Analysis
+
+## Guide Supplements
+### Supplement A: Types of articles not indexed for Agricola 
+### Supplement B: Additional resources for indexers
+###	Supplement C: Preferred Assignment of Names for Organisms and Products – Summary
+###	Supplement D: Similar NALT terms in different hierarchies
+###	Supplement E: Ambiguous concepts
+###	Supplement F: Checklist of Common Indexing Errors
+###	Supplement G: Examples
