@@ -11,9 +11,6 @@ kernelspec:
   name: python3
 ---
 
-```{contents} Table of Contents
-:depth: 6
-```
 
 # Table of Contents
 

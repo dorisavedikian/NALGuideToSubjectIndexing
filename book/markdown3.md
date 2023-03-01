@@ -12,7 +12,6 @@ kernelspec:
 ---
 
 
-
 # Guide Supplements
 
 ## Supplement A: Types of articles not indexed for Agricola 
