@@ -3,21 +3,22 @@
 
 format: jb-book
 root: index
-- caption: Table of Contents
-  chapters:
-    - file: book/TOC/BasicGuidelines
-    - file: book/TOC/TheAgricolaDB
-    - file: book/TOC/MARCFormat
-    - file: book/TOC/TheNALThesaurus
-    - file: book/TOC/Workflow
-    - file: book/TOC/SubjectAnalysis
-- caption: Guide Supplements
-  chapters:
-    - file: book/Supplements/SupplementA
-    - file: book/Supplements/SupplementB
-    - file: book/Supplements/SupplementC
-    - file: book/Supplements/SupplementD
-    - file: book/Supplements/SupplementE
-    - file: book/Supplements/SupplementF
-    - file: book/Supplements/SupplementG
+parts:
+  - caption: Table of Contents
+    chapters:
+      - file: book/TOC/BasicGuidelines
+      - file: book/TOC/TheAgricolaDB
+      - file: book/TOC/MARCFormat
+      - file: book/TOC/TheNALThesaurus
+      - file: book/TOC/Workflow
+      - file: book/TOC/SubjectAnalysis
+  - caption: Guide Supplements
+    chapters:
+      - file: book/Supplements/SupplementA
+      - file: book/Supplements/SupplementB
+      - file: book/Supplements/SupplementC
+      - file: book/Supplements/SupplementD
+      - file: book/Supplements/SupplementE
+      - file: book/Supplements/SupplementF
+      - file: book/Supplements/SupplementG
 
