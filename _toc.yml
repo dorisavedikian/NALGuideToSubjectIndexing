@@ -5,6 +5,8 @@ format: jb-book
 root: index
 chapters:
   - file: book/markdown
+  - file: book/markdown2
+  - file: book/markdown3
   - file: book/notebooks
   - file: book/bibliography
 
