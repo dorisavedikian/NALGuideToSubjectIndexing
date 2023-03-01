@@ -1,4 +1,5 @@
-# A Guide to Subject Indexing
+
+# A Guide to Subject Indexing for the USDA NAL
 
 
 :::{note}
