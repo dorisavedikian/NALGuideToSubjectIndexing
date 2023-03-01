@@ -3,22 +3,21 @@
 
 format: jb-book
 root: index
-chapters:
-  - file: book/markdown
-  - file: book/markdown2
-  - file: book/markdown3
-  - file: book/notebooks
-  - file: book/bibliography
+- caption: Table of Contents
+  chapters:
+    - file: book/TOC/BasicGuidelines
+    - file: book/TOC/TheAgricolaDB
+    - file: book/TOC/MARCFormat
+    - file: book/TOC/TheNALThesaurus
+    - file: book/TOC/Workflow
+    - file: book/TOC/SubjectAnalysis
+- caption: Guide Supplements
+  chapters:
+    - file: book/Supplements/SupplementA
+    - file: book/Supplements/SupplementB
+    - file: book/Supplements/SupplementC
+    - file: book/Supplements/SupplementD
+    - file: book/Supplements/SupplementE
+    - file: book/Supplements/SupplementF
+    - file: book/Supplements/SupplementG
 
-# Or you organize the TOC by parts
-
-# parts:
-#   - caption: Chapters
-#     numbered: true
-#     maxdepth: 2
-#     chapters:
-#       - file: book/markdown
-#       - file: book/notebooks
-#   - caption: Appendices
-#     chapters:
-#       - file: book/bibliography

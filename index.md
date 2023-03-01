@@ -1,12 +1,7 @@
-# USDA NAL Guide to Subject Indexing
+# A Guide to Subject Indexing
 
 
 :::{note}
-Content is pending....
+Content is currently pending....
 :::
 
-Code block:
-
-```
-# Example code block.
-```
