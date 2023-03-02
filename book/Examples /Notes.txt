@@ -1,0 +1,27 @@
+
+# Create virtual environment (index), activate index and install cookiecutter and jupyter-book 
+python3 -m venv index
+source index/bin/activate
+index/bin/pip install -U cookiecutter jupyter-book
+
+# Type the following in the command line and answer the questions
+cookiecutter gh:giswqs/cookiecutter-jupyter-book 
+
+# cd into the repo created in the questions & Install requirements.txt
+cd NALGuideToSubjectIndexing
+pip install -r requirements.txt
+
+# Create a GitHub repo to host the book
+
+Notes: 
+- I had to comment out _build/ and _build/html in .gitignore.txt in order for the 
+file to be added to the repo. 
+- Updated python version to 3.10.10 in deploy.yml
+- Got the following error: "Error: The process '/usr/bin/git' failed with exit code 128" 
+and found a solution by @realnikolaj here : https://github.com/actions/checkout/issues/417
+
+# Make edits to the book by adding more content, updating the table of contents, etc. in:
+_toc.yml 
+_config.yml
+See https://jupyterbook.org/en/stable/intro.html for more info on customizing the book.
+

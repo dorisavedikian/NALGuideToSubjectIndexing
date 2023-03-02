@@ -4,14 +4,9 @@
 format: jb-book
 root: index
 parts:
-  - caption: Table of Contents
+  - caption: A Guide to Subject Indexing
     chapters:
-      - file: book/TOC/BasicGuidelines
-      - file: book/TOC/TheAgricolaDB
-      - file: book/TOC/MARCFormat
-      - file: book/TOC/TheNALThesaurus
-      - file: book/TOC/Workflow
-      - file: book/TOC/SubjectAnalysis
+      - file: book/TOC/TableofContent
   - caption: Guide Supplements
     chapters:
       - file: book/Supplements/SupplementA
@@ -20,5 +15,19 @@ parts:
       - file: book/Supplements/SupplementD
       - file: book/Supplements/SupplementE
       - file: book/Supplements/SupplementF
-      - file: book/Supplements/SupplementG
+      - file: book/Supplements/SupplementG    
 
+
+
+
+
+
+#  - caption: Guide Supplements
+#    chapters:
+#      - file: book/Supplements/SupplementA
+#      - file: book/Supplements/SupplementB
+#      - file: book/Supplements/SupplementC
+#      - file: book/Supplements/SupplementD
+#      - file: book/Supplements/SupplementE
+#      - file: book/Supplements/SupplementF
+#      - file: book/Supplements/SupplementG
