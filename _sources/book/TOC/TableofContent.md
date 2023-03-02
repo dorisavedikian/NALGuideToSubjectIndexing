@@ -12,6 +12,10 @@ kernelspec:
 ---
 
 # Table of Contents
+
+```{content}
+```
+
 ## Basic Guidelines
 
 ## The Agricola Database
