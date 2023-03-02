@@ -21,18 +21,48 @@ kernelspec:
 
 ## The Agricola Database
 
-### Search 
-Here is a link to [SEARCH](https://search.nal.usda.gov/discovery/search?vid=01NAL_INST:MAIN) 
-
-Search everything for results from the Catalog and Articles database (AGRICOLA), PubAg, and the NAL Digital Collections (NALDC)!
-
 ## MARC Format
 
 ## The NAL Thesaurus (NALT)
 
-### NALT
-Here is a link to the [National Ag Library Thesaurus](https://agclass.nal.usda.gov)
-
 ## Workflow
 
 ## Subject Analysis
+
+## Other
+
+```{note}
+This is a note!
+```
+
+```{warning} This is an example
+of a warning directive.
+```
+
+```{tip} This is an example
+of a tip directive.
+```
+
+```{caution} This is an example
+of a caution directive.
+```
+
+```{attention} This is an example
+of an attention directive.
+```
+
+```{danger} This is an example
+of a danger directive.
+```
+
+```{error} This is an example
+of an error directive.
+```
+
+```{hint} This is an example
+of a hint directive.
+```
+
+```{important} This is an example
+of an important directive.
+```
