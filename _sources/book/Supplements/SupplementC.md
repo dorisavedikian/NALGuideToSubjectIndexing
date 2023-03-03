@@ -11,4 +11,4 @@ kernelspec:
   name: python3
 ---
 
-# Supplement C: Preferred Assignment of Names for Organisms and Products 
+# Supplement C: Preferred Assignment of Names for Organisms and Products - Summary
