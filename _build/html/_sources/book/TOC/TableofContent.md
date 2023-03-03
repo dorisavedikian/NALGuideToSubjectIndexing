@@ -86,13 +86,29 @@ When considering proposal of a new term, always ask:
 +++
 *	If the proposed term is already included in another thesaurus, suggest the term as it appears in that thesaurus to maintain consistency. If the term is in several thesauri in different forms (e.g., hyphenation, capitalization), recommend the one that follows NALT naming convention (see below) with other forms included as entry-level terms.
 +++
+```{margin} __Examples of capitalization:__
+* USDA Forest Service, 
+* Mississippi Delta region, 
+* Internet of Things
+* Daboia russelii
+* DDT (pesticide)
+* COVID-19 infection
+```
+```{margin} __Examples of lower case:__
+* forests
+* river deltas
+* information technology
+* reptiles
+* organochlorine pesticides
+* infectious diseases
+```
 *	Follow conventions of capitalization used in NALT, i.e., capitalize formal names, geographical terms and acronyms, use lower case for non-specific places or things, etc.
-    * Examples of capitalization: **USDA Forest Service, Mississippi Delta region, Internet of Things,** ***Daboia russelii,*** **DDT (pesticide), COVID-19 infection**
-    * Examples of lower case: **forests, river deltas, information technology, reptiles, organochlorine pesticides, infectious diseases**
 +++
 *	Consider spelling variants, synonyms, and quasi-synonyms before proposing a new term.
-    *	Example: For “Nutrient solution concentration and collection time in phytomass production, content, yield and chemical composition of essential oil of rosemary”{cite}`JoPN_2018`, NALT does not have a term to cover specifically “essential oil of rosemary”.  Consider proposing **rosemary oil** (CABI thesaurus term) as a preferred term, with **essential oil of rosemary, rosemary essential oil and Rosmarinus officinalis essential oil** (among others) as potential entry-level terms.
-    *	Example: For “Effects of Coffee and Its Components on the Gastrointestinal Tract and the Brain–Gut Axis”{cite}`Nutrients_20`, *NALT* has __coffee (beverage)__ and __gastrointestinal system__ but not “brain-gut axis” or another term that covers that concept. Propose __brain-gut axis__ (existing MESH term, “interactive network between the gastrointestinal tract (gut) and the brain principally mediated through the enteric nervous system ...”) as the preferred term __with brain and gut axis, brain-gut-microbiome axis, gut and brain axis, gut-brain axis__ and other variations as entry-level terms.
+    *	__Example:__ For “Nutrient solution concentration and collection time in phytomass production, content, yield and chemical composition of essential oil of rosemary”{cite}`JoPN_2018`, NALT does not have a term to cover specifically “essential oil of rosemary”.  
+    Consider proposing **rosemary oil** (CABI thesaurus term) as a preferred term, with **essential oil of rosemary, rosemary essential oil and Rosmarinus officinalis essential oil** (among others) as potential entry-level terms.
+    *	__Example:__ For “Effects of Coffee and Its Components on the Gastrointestinal Tract and the Brain–Gut Axis”{cite}`Nutrients_20`, *NALT* has __coffee (beverage)__ and __gastrointestinal system__ but not “brain-gut axis” or another term that covers that concept. 
+    Propose __brain-gut axis__ (existing MESH term, “interactive network between the gastrointestinal tract (gut) and the brain principally mediated through the enteric nervous system ...”) as the preferred term __with brain and gut axis, brain-gut-microbiome axis, gut and brain axis, gut-brain axis__ and other variations as entry-level terms.
 +++
 *	Terms should always be nouns, noun phrases (phrase formed by a noun and all its modifiers and determiners), or gerunds (a word that is derived from a verb but functions as a noun).
     *	nouns – __cattle, farms, hematophagy, loci__
@@ -115,12 +131,14 @@ When considering proposal of a new term, always ask:
     *	__climate change__, not __changing climate__ 
     *	__food processing__, not __processing food__ or __processing of food__
 +++
+```{margin} __Examples of hyphenated terms:__
+* __1-aminocyclopropane-1-carboxylate deaminase__
+* __3’ untranslated region__
+* __blood-brain barrier__
+* __Fusarium oxysporum f. sp. radicis-lycopersici__
+* __public-private partnerships__
+```
 *	Avoid punctuation, including hyphens, if possible. Some exceptions include (but are not exclusively) taxonomic names, chemical compounds, scientific terms and accepted terms from other thesauri. 
-    *	__1-aminocyclopropane-1-carboxylate deaminase__
-    *	__3’ untranslated region__
-    *	__blood-brain barrier__
-    *	__Fusarium oxysporum f. sp. radicis-lycopersici__
-    *	__public-private partnerships__
 +++
 *	Use scientific terminology rather than lay/colloquial terminology. 
     *	__neoplasms__, not cancer
