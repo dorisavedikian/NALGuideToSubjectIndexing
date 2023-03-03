@@ -132,11 +132,11 @@ When considering proposal of a new term, always ask:
     *	__food processing__, not __processing food__ or __processing of food__
 +++
 ```{margin} __Examples of hyphenated terms:__
-* __1-aminocyclopropane-1-carboxylate deaminase__
-* __3’ untranslated region__
-* __blood-brain barrier__
-* __Fusarium oxysporum f. sp. radicis-lycopersici__
-* __public-private partnerships__
+* 1-aminocyclopropane-1-carboxylate deaminase
+* 3’ untranslated region
+* blood-brain barrier
+* Fusarium oxysporum f. sp. radicis-lycopersici
+* public-private partnerships
 ```
 *	Avoid punctuation, including hyphens, if possible. Some exceptions include (but are not exclusively) taxonomic names, chemical compounds, scientific terms and accepted terms from other thesauri. 
 +++
