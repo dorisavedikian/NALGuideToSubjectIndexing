@@ -1,6 +1,4 @@
-# Guide To Subject Indexing
-
-This is a guide to subject indexing for the USDA NAL. Content is currently pending.
+# AGRICOLA guide to subject indexing
 
 ## Usage
 
