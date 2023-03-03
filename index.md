@@ -3,7 +3,7 @@
 
 
 
-:::{note}
+:::{tip}
 An introduction for this page would be good.
 :::
 
