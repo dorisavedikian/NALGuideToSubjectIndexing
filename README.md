@@ -1,8 +1,6 @@
 # AGRICOLA guide to subject indexing
 
-## Usage
-
-### Building the book
+## Building the book
 
 If you'd like to develop and/or build the Guide To Subject Indexing book, you should:
 
