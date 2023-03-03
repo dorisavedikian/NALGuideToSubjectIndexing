@@ -43,6 +43,7 @@
 # 
 # 
 # ## MARC Format
+# 
 # ```{sidebar} 
 # > __650__  NALT terms 
 # >
@@ -78,8 +79,8 @@
 # *	If the proposed term is already included in another thesaurus, suggest the term as it appears in that thesaurus to maintain consistency. If the term is in several thesauri in different forms (e.g., hyphenation, capitalization), recommend the one that follows NALT naming convention (see below) with other forms included as entry-level terms.
 
 # ```{margin} __Examples of capitalization:__
-# * USDA Forest Service, 
-# * Mississippi Delta region, 
+# * USDA Forest Service 
+# * Mississippi Delta region 
 # * Internet of Things
 # * Daboia russelii
 # * DDT (pesticide)
