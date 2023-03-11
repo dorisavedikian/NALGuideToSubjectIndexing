@@ -194,43 +194,64 @@ The team will also consider highlighted annotations that are not currently in *N
 ### Basics for Using Taxonomic Names
 ### Geographic Descriptors
 
+### Resources
+* 2004 AGRICOLA Guide to Subject Indexing, 2nd draft.{doc}`/book/Files/2004 AGRICOLA Guide to Subject Indexing_2nd draft.pdf`
 
+* Agricola Guide to Subject Indexing (revised 2010).  
 
+* Bartol, T. (2009). Assessment of Food and Nutrition Related Descriptors in Agricultural and Biomedical Thesauri. In: Sartori, F., Sicilia, M.Á., Manouselis, N. (eds) Metadata and Semantic Research. MTSR 2009. Communications in Computer and Information Science, vol 46. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-04590-5_28
 
-## Other
+* Bonnichon, M. (1994). Guide to indexing for AGRIS and CARIS. Rome: FAO. 
 
-```{note}
-This is a note!
-```
+* Change to Automatic Indexing (AI): Subject Analysis Quality and Indexing Guidelines, June 28, 2011, original draft, Aug 30, 2012, last update  
 
-```{warning} This is an example
-of a warning directive.
-```
+* Edwards, S. 1993. Indexing Practices at the National Agricultural Library, Cataloging & Classification Quarterly, 16(2), 89-97, DOI: 10.1300/J104v16n03_10
 
-```{tip} This is an example
-of a tip directive.
-```
+* Franck, M., Toulet A., Bobasheva A., Deboin M-C., Dupré S., Menin A., Winckler M., and  Tchechmedjiev A (2022). Semantic Indexing of Open Scientific Literature to Help Users Discover and Navigate through Publications Networks. Biodiversity Information Science and Standards (08). doi:https://doi.org/10.3897/biss.6.93640. 
 
-```{caution} This is an example
-of a caution directive.
-```
+* Gibbs, J. Standards for Indexing. Information Standards Quarterly, Summer & Fall 2015, 27(2-3): pp. 41-45.  
 
-```{attention} This is an example
-of an attention directive.
-```
+* Golub, K. (2021). Automated Subject Indexing: An Overview, Cataloging & Classification Quarterly, 59:8, 702-719, DOI: 10.1080/01639374.2021.2012311
 
-```{danger} This is an example
-of a danger directive.
-```
+* Hood, M. W. (1991). AGRICOLA--guide to subject indexing. Beltsville, Md: National Agricultural Library, Technical Services Division.  
 
-```{error} This is an example
-of an error directive.
-```
+* Hutchins, W.J. (1978), The concept of ‘aboutness’ in subject indexing, Aslib Proceedings, Vol. 30 No. 5, pp. 172-181. https://doi.org/10.1108/eb050629
 
-```{hint} This is an example
-of a hint directive.
-```
+* Indexing and Informatics Branch. Interim Policy: Decision table on problematic items found in indexing, July 2, 2014. Updated July 9, 2014.  
 
-```{important} This is an example
-of an important directive.
-```
+* Indexing Guidelines for Automatic Indexing – BASICS for the beginning – DRAFT for leading discussion at the Wednesday, May 4, 2011, Indexer Meeting, May 2, 2011. 
+
+* Ireland, J. D. and Møller, A. (2000). Review of International Food Classification and Description, Journal of Food Composition and Analysis, 13(4): 529-538. DOI: 10.1006/jfca.2000.0921.
+
+* Irving, H. B. (1997). Computer-assisted indexing training and electronic text conversion at NAL. Knowledge Organization 24(1):4-7, https://www.nomos-elibrary.de/10.5771/0943-7444-1997-1-4.pdf
+
+* Kim S. & Beck H. W. (2006). A Practical Comparison Between Thesaurus and Ontology Techniques As a Basis for Search Improvement, Journal of Agricultural & Food Information, 7:4, 23-42, DOI: 10.1300/J108v07n04_04
+
+* Medline Principles of Subject Indexing. May 9, 2014. 
+
+* Michel F., Toulet A., Bobasheva A., Deboin M-C., Dupré S., Menin A., Winckler M., Tchechmedjiev A. (2022). Semantic Indexing of Open Scientific Literature to Help Users Discover and Navigate through Publications Networks. Biodiversity Information Science and Standards 6: e93640. https://doi.org/10.3897/biss.6.93640
+
+* National Agricultural Library. Informatics and Indexing Branch Manual: Change to Automatic Indexing (AI), September 2012 draft.   
+
+* National Library of Medicine. MEDLINE Indexing Online Training Course, April 15, 2015. https://www.nlm.nih.gov/bsd/indexing/training/USE_010.html
+
+* Portaluppi, F. (2007). Consistency and Accuracy of the Medical Subject Headings Thesaurus for Electronic Indexing and Retrieval of Chronobiologic References, Chronobiology International, 24:6, 1213-1229, DOI: 10.1080/07420520701791570
+
+* Ritchie S., Banyas K., & Sevin C. . (2019). A Comparison of Selected Bibliographic Database Search Retrieval for Agricultural Information. Issues in Science and Technology Librarianship, (93). https://doi.org/10.29173/istl48
+
+* Salisbury, L. & Smith, J. J. (2014). Building the AgNIC Resource Database Using Semi-Automatic Indexing of Material, Journal of Agricultural & Food Information, 15:3, 159-176, DOI: 10.1080/10496505.2014.919805
+
+* Sarkhel, J. (2017). Unit-9 Basics of Subject Indexing. Retrieved from http://egyankosh.ac.in/handle/123456789/35769
+
+* Thomas, S. E. (1990). Bibliographic control and agriculture, Library Trends, 38:3, pp.542-561, also in Russell, K. W. and Pisa, M. G. Agricultural Libraries and Information. University of Illinois Graduate School of Library and Information Science 1990.
+
+* Toews, R. (2022) Language Is The Next Great Frontier In AI, Forbes, February/March 2022. https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/?sh=713f820a5c50
+
+* Urhan, T.K., Rempel, H.G., Meunier-Goddik, L. and Penner, M.H. (2018), Information Retrieval in Food Science Research: A Bibliographic Database Analysis. Journal of Food Science, 83: 2912-2922. https://doi.org/10.1111/1750-3841.14388
+
+* Urhan, T.K., Rempel, H.G., Meunier-Goddik, L. and Penner, M.H. (2019), Information Retrieval in Food Science Research II: Accounting for Relevance When Evaluating Database Performance. Journal of Food Science, 84: 2729-2735. https://doi.org/10.1111/1750-3841.14769
+
+* Willis, C. and Losee, R.M. (2013), A Random Walk on an Ontology: Using Thesaurus Structure for Automatic Subject Indexing. J Am Soc Inf Sci Tec, 64: 1330-1344. https://doi.org/10.1002/asi.22853
+
+* Z39.4 Criteria for Indexes Working Group (2021). ANSI/NISO Z39.4-2021 Criteria for Indexes, ISBN: 978-1-950980-14-7, ISSN: 1041-5653, Baltimore, MD: NISO. Retrieved from DOI: 10.3789/ansi.niso.z39.4-2021
+
