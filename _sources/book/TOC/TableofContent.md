@@ -109,7 +109,7 @@ When considering proposal of a new term, always ask:
 *	Consider spelling variants, synonyms, and quasi-synonyms before proposing a new term.
     *	__Example:__ For “Nutrient solution concentration and collection time in phytomass production, content, yield and chemical composition of essential oil of rosemary”{cite}`JoPN_2018`, NALT does not have a term to cover specifically “essential oil of rosemary”.  
         * Consider proposing **rosemary oil** (CABI thesaurus term) as a preferred term, with **essential oil of rosemary, rosemary essential oil and Rosmarinus officinalis essential oil** (among others) as potential entry-level terms.
-    *	__Example:__ For “Effects of Coffee and Its Components on the Gastrointestinal Tract and the Brain–Gut Axis”{cite}`Nutrients_20`, *NALT* has __coffee (beverage)__ and __gastrointestinal system__ but not “brain-gut axis” or another term that covers that concept. 
+    *	__Example:__ For “Effects of Coffee and Its Components on the Gastrointestinal Tract and the Brain–Gut Axis”, {cite}`Nutrients_20` *NALT* has __coffee (beverage)__ and __gastrointestinal system__ but not “brain-gut axis” or another term that covers that concept. 
         * Propose __brain-gut axis__ (existing MESH term, “interactive network between the gastrointestinal tract (gut) and the brain principally mediated through the enteric nervous system ...”) as the preferred term __with brain and gut axis, brain-gut-microbiome axis, gut and brain axis, gut-brain axis__ and other variations as entry-level terms.
 +++
 *	Terms should always be nouns, noun phrases (phrase formed by a noun and all its modifiers and determiners), or gerunds (a word that is derived from a verb but functions as a noun).
@@ -194,64 +194,69 @@ The team will also consider highlighted annotations that are not currently in *N
 ### Basics for Using Taxonomic Names
 ### Geographic Descriptors
 
-### Resources
-* 2004 AGRICOLA Guide to Subject Indexing, 2nd draft.
-
+## Resources
+* 2004 AGRICOLA Guide to Subject Indexing, 2nd draft 
++++
 * Agricola Guide to Subject Indexing (revised 2010).  
-
-* Bartol, T. (2009). Assessment of Food and Nutrition Related Descriptors in Agricultural and Biomedical Thesauri. In: Sartori, F., Sicilia, M.Á., Manouselis, N. (eds) Metadata and Semantic Research. MTSR 2009. Communications in Computer and Information Science, vol 46. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-04590-5_28
-
-* Bonnichon, M. (1994). Guide to indexing for AGRIS and CARIS. Rome: FAO. 
-
-* Change to Automatic Indexing (AI): Subject Analysis Quality and Indexing Guidelines, June 28, 2011, original draft, Aug 30, 2012, last update  
-
-* Edwards, S. 1993. Indexing Practices at the National Agricultural Library, Cataloging & Classification Quarterly, 16(2), 89-97, DOI: 10.1300/J104v16n03_10
-
-* Franck, M., Toulet A., Bobasheva A., Deboin M-C., Dupré S., Menin A., Winckler M., and  Tchechmedjiev A (2022). Semantic Indexing of Open Scientific Literature to Help Users Discover and Navigate through Publications Networks. Biodiversity Information Science and Standards (08). doi:https://doi.org/10.3897/biss.6.93640. 
-
-* Gibbs, J. Standards for Indexing. Information Standards Quarterly, Summer & Fall 2015, 27(2-3): pp. 41-45.  
-
-* Golub, K. (2021). Automated Subject Indexing: An Overview, Cataloging & Classification Quarterly, 59:8, 702-719, DOI: 10.1080/01639374.2021.2012311
-
-* Hood, M. W. (1991). AGRICOLA--guide to subject indexing. Beltsville, Md: National Agricultural Library, Technical Services Division.  
-
-* Hutchins, W.J. (1978), The concept of ‘aboutness’ in subject indexing, Aslib Proceedings, Vol. 30 No. 5, pp. 172-181. https://doi.org/10.1108/eb050629
-
-* Indexing and Informatics Branch. Interim Policy: Decision table on problematic items found in indexing, July 2, 2014. Updated July 9, 2014.  
-
-* Indexing Guidelines for Automatic Indexing – BASICS for the beginning – DRAFT for leading discussion at the Wednesday, May 4, 2011, Indexer Meeting, May 2, 2011. 
-
-* Ireland, J. D. and Møller, A. (2000). Review of International Food Classification and Description, Journal of Food Composition and Analysis, 13(4): 529-538. DOI: 10.1006/jfca.2000.0921.
-
-* Irving, H. B. (1997). Computer-assisted indexing training and electronic text conversion at NAL. Knowledge Organization 24(1):4-7, https://www.nomos-elibrary.de/10.5771/0943-7444-1997-1-4.pdf
-
-* Kim S. & Beck H. W. (2006). A Practical Comparison Between Thesaurus and Ontology Techniques As a Basis for Search Improvement, Journal of Agricultural & Food Information, 7:4, 23-42, DOI: 10.1300/J108v07n04_04
-
-* Medline Principles of Subject Indexing. May 9, 2014. 
-
-* Michel F., Toulet A., Bobasheva A., Deboin M-C., Dupré S., Menin A., Winckler M., Tchechmedjiev A. (2022). Semantic Indexing of Open Scientific Literature to Help Users Discover and Navigate through Publications Networks. Biodiversity Information Science and Standards 6: e93640. https://doi.org/10.3897/biss.6.93640
-
-* National Agricultural Library. Informatics and Indexing Branch Manual: Change to Automatic Indexing (AI), September 2012 draft.   
-
-* National Library of Medicine. MEDLINE Indexing Online Training Course, April 15, 2015. https://www.nlm.nih.gov/bsd/indexing/training/USE_010.html
-
-* Portaluppi, F. (2007). Consistency and Accuracy of the Medical Subject Headings Thesaurus for Electronic Indexing and Retrieval of Chronobiologic References, Chronobiology International, 24:6, 1213-1229, DOI: 10.1080/07420520701791570
-
-* Ritchie S., Banyas K., & Sevin C. . (2019). A Comparison of Selected Bibliographic Database Search Retrieval for Agricultural Information. Issues in Science and Technology Librarianship, (93). https://doi.org/10.29173/istl48
-
-* Salisbury, L. & Smith, J. J. (2014). Building the AgNIC Resource Database Using Semi-Automatic Indexing of Material, Journal of Agricultural & Food Information, 15:3, 159-176, DOI: 10.1080/10496505.2014.919805
-
-* Sarkhel, J. (2017). Unit-9 Basics of Subject Indexing. Retrieved from http://egyankosh.ac.in/handle/123456789/35769
-
++++
 * Thomas, S. E. (1990). Bibliographic control and agriculture, Library Trends, 38:3, pp.542-561, also in Russell, K. W. and Pisa, M. G. Agricultural Libraries and Information. University of Illinois Graduate School of Library and Information Science 1990.
++++
+* Bonnichon, M. (1994). Guide to indexing for AGRIS and CARIS. Rome: FAO. 
++++
+* Change to Automatic Indexing (AI): Subject Analysis Quality and Indexing Guidelines, (original draft: June 28, 2011, last update: Aug 30, 2012)
++++
+* Gibbs, J. Standards for Indexing. Information Standards Quarterly, Summer & Fall 2015
++++
+* Hood, M. W. (1991). AGRICOLA--guide to subject indexing. Beltsville, Md: National Agricultural Library, Technical Services Division.  
++++
+* Indexing and Informatics Branch. Interim Policy: Decision table on problematic items found in indexing, July 2, 2014. Updated July 9, 2014.  
++++
+* Indexing Guidelines for Automatic Indexing – BASICS for the beginning – DRAFT for leading discussion at the Wednesday, May 4, 2011, Indexer Meeting, May 2, 2011. 
++++
+* Medline Principles of Subject Indexing. May 9, 2014. 
++++
+* National Agricultural Library. Informatics and Indexing Branch Manual: Change to Automatic Indexing (AI), September 2012 draft.   
++++
+* Assessment of Food and Nutrition Related Descriptors in Agricultural and Biomedical Thesauri. {cite:p}`Bartol_09`
++++
+* Indexing Practices at the National Agricultural Library, Cataloging & Classification Quarterly, {cite}`NALIndex`
++++
+* Semantic Indexing of Open Scientific Literature to Help Users Discover and Navigate through Publications Networks. {cite}`SemanticIndex`
++++
+* Automated Subject Indexing: An Overview, Cataloging & Classification Quarterly, {cite}`AutoIndex`
++++
+* The concept of ‘aboutness’ in subject indexing, {cite}`Hutchins1997`
++++
+* Review of International Food Classification and Description, Journal of Food Composition and Analysis, {cite}`IRELAND `
++++
+* Computer-assisted indexing training and electronic text conversion at NAL.{cite}`1997:irving`
++++
+* A Practical Comparison Between Thesaurus and Ontology Techniques As a Basis for Search Improvement, Journal of Agricultural & Food Information, {cite}`ontology:06`   
++++
+* Semantic Indexing of Open Scientific Literature to Help Users Discover and Navigate through Publications Networks. Biodiversity Information Science and Standards {cite}`semantic:22`
++++
+* Consistency and Accuracy of the Medical Subject Headings Thesaurus for Electronic Indexing and Retrieval of Chronobiologic References,{cite}`chrono:07`
++++
+* A Comparison of Selected Bibliographic Database Search Retrieval for Agricultural Information. Issues in Science and Technology Librarianship, {cite}`kelly:19`
++++
+* Building the AgNIC Resource Database Using Semi-Automatic Indexing of Material, Journal of Agricultural & Food Information, {cite}`taylor:14`
++++
+* Information Retrieval in Food Science Research: A Bibliographic Database Analysis. Journal of Food Science, {cite}`Urhan2018InformationRI`
++++
+* Information Retrieval in Food Science Research II: Accounting for Relevance When Evaluating Database Performance. Journal of Food Science, {cite}`urhan2`
++++
+* A Random Walk on an Ontology: Using Thesaurus Structure for Automatic Subject Indexing. {cite}`willis:13`
++++
+* Criteria for Indexes Working Group [ANSI/NISO Z39.4-2021](https://groups.niso.org/higherlogic/ws/public/download/25816/ANSI_NISO_Z39.94-2021_Criteria_for_Indexes.pdf)
++++
+* National Library of Medicine, MEDLINE [Indexing Online Training Course, April 15, 2015.](https://www.nlm.nih.gov/bsd/indexing/training/USE_010.html)
++++
+* Basics of Subject Indexing, [Unit-9](http://egyankosh.ac.in/handle/123456789/35769), Sarkhel, J. (2017). 
++++
+* Language Is The Next Great Frontier In AI, [Forbes, February/March 2022.](https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/?sh=713f820a5c50)
 
-* Toews, R. (2022) Language Is The Next Great Frontier In AI, Forbes, February/March 2022. https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/?sh=713f820a5c50
 
-* Urhan, T.K., Rempel, H.G., Meunier-Goddik, L. and Penner, M.H. (2018), Information Retrieval in Food Science Research: A Bibliographic Database Analysis. Journal of Food Science, 83: 2912-2922. https://doi.org/10.1111/1750-3841.14388
-
-* Urhan, T.K., Rempel, H.G., Meunier-Goddik, L. and Penner, M.H. (2019), Information Retrieval in Food Science Research II: Accounting for Relevance When Evaluating Database Performance. Journal of Food Science, 84: 2729-2735. https://doi.org/10.1111/1750-3841.14769
-
-* Willis, C. and Losee, R.M. (2013), A Random Walk on an Ontology: Using Thesaurus Structure for Automatic Subject Indexing. J Am Soc Inf Sci Tec, 64: 1330-1344. https://doi.org/10.1002/asi.22853
-
-* Z39.4 Criteria for Indexes Working Group (2021). ANSI/NISO Z39.4-2021 Criteria for Indexes, ISBN: 978-1-950980-14-7, ISSN: 1041-5653, Baltimore, MD: NISO. Retrieved from DOI: 10.3789/ansi.niso.z39.4-2021
-
+## References 
+```{bibliography} /book/references2.bib
+:filter: docname in docnames
+```
