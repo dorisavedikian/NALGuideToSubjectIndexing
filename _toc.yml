@@ -15,11 +15,8 @@ parts:
       - file: book/Supplements/SupplementD
       - file: book/Supplements/SupplementE
       - file: book/Supplements/SupplementF
-  - caption: Bibliography  
-    chapters:
-      - file: book/bibliography
-   
 
+   
 
 #  - caption: Guide Supplements
 #    chapters:

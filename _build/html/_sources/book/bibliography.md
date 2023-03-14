@@ -1,6 +1,7 @@
 
 # Bibliography
 
-```{bibliography}
-
+```{bibliography} references.bib
+:list: bullet
+:all:
 ```

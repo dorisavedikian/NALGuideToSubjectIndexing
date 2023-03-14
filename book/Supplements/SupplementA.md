@@ -74,7 +74,7 @@ Depending on the issue, check the original article for the same error; if the or
 
 ## Problem: No Abstract, Title only
 ```{margin}
-__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List). Indexing Team: Delete during Golden Sets review.
+__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). Indexing Team: Delete during Golden Sets review.
 ```
 __Examples:__
 *	“Neotropical tiger beetles (Coleoptera: Cicindelidae): checklist and biogeography”{cite}`Beetles`. No abstract provided.
@@ -86,7 +86,7 @@ __Examples:__
 *e.g., spacing problem, truncated abstract or mismatched abstract, odd characters, verbalization of italicized text*
 
 ```{margin}
-__Action to take:__ Check UR – problem may have already been fixed. If not, Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email & Teams (CSE Abstracts Error List). 
+__Action to take:__ Check UR – problem may have already been fixed. If not, Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email & Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). 
 ```
 __Examples:__
 *	“... Demand Response (DR) is considered an effective approach for cleaner production and economic strategy, by introducing the participation of customers (CUs).This paper proposes a novel DR method for predictive management ...{cite}`NaturalGas`”
@@ -100,7 +100,7 @@ __Examples:__
 
 ## Problem: Article citation appears at beginning of abstract
 ```{margin}
-__Action to take:__ Check UR – problem may have already been fixed. If not, Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List).
+__Action to take:__ Check UR – problem may have already been fixed. If not, Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV).
 ```
 __Examples:__
 * “Megantara EN, Jauhan J, Shanida SS, Husodo T, Fauzi DA, Hendrawan R, Wulandari I, Yuansah. 2022. Herpetofauna distribution in different land cover types of West Java, Indonesia. *Biodiversitas* 23: 2990-2999. Herpetofauna is very sensitive and can be used as a biodiversity indicator...{cite}`WestJavaIndo`”
@@ -109,7 +109,7 @@ __Examples:__
 
 ## Problem: Reviewer acknowledgement 
 ```{margin}
-__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List). Indexing Team: Delete during Golden Sets review.
+__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). Indexing Team: Delete during Golden Sets review.
 ```
 __Examples:__
 * "... The editorial team greatly appreciates the reviewers who have dedicated their considerable time and expertise to the journal’s rigorous editorial process over the past 12 months...{cite}`Virus`" 
@@ -118,14 +118,14 @@ __Examples:__
 
 ## Problem: Multiple languages but English title and/or abstract is provided
 ```{margin}
-__Action to take:__ Check UR – problem may have already been fixed. Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List). Alert Metadata group, if needed. 
+__Action to take:__ Check UR – problem may have already been fixed. Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). Alert Metadata group, if needed. 
 ```
 __Example:__
 * “Abstrak Penelitian ini bertujuan untuk menentukan proporsi bubur kelapa gading dan santan kelapa terbaik, sehingga didapatkan karakteristik fisik, kimia, dan organoleptik es krim berkualitas, serta meningkatkan nilai ekonomi kelapa gading agar menjadi komoditas komersial … Abstract The purpose of this research is to determine the proportion of ivory coconut pulp and coconut milk to make qualified ice cream based from physical, chemical, and organoleptic characteristics, and increase the economic value of ivory coconut for commercial commodities...{cite}`Industria`”
 
 ## Problem: Title and abstract in another language, no English versions available.
 ```{margin}
-__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List). Indexing Team: Delete during Golden Sets review.
+__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). Indexing Team: Delete during Golden Sets review.
 ```
 __Example:__
 * “Le tissu adipeux (TA) durant l’obésité est progressivement infiltré par des cellules immunes dont les lymphocytes Th17 inflammatoires. Leur polarisation est médiée par les cellules souches adipocytaires du sujet obèse (CSAob), ce qui contribue à l’insulinorésistance du TA, puis au diabète de type 2 (DT2). La voie de signalisation Notch régule le phénotype des lymphocytes T. DNER, un ligand non-canonique de cette voie, inhibe l’adipogenèse, et est impliqué dans la susceptibilité au DT2...{cite}`Metabolisme`”
@@ -141,7 +141,7 @@ __Examples:__
 
 ## Problem: Opinion piece, Note, Editorial, Notes on other articles in the same issue
 ```{margin}
-__Action to take:__ Index as normal but if impossible to index with 3 terms, note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List). If appropriate, will deleted during Golden Sets review.
+__Action to take:__ Index as normal but if impossible to index with 3 terms, note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). If appropriate, will deleted during Golden Sets review.
 ```
 __Examples:__
 * “The seven articles included in this Special Issue provide an insight into the latest findings in organic waste valorisation based on biological processes driven by specialized pure or mixed microbial cultures. Two articles shed light on lactate-driven chain elongation mechanisms...{cite}`microorganisms`”
@@ -150,7 +150,7 @@ __Examples:__
 
 ## Problem: Biography 
 ```{margin}
-__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List). If appropriate, will be deleted during Golden Sets review.
+__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). If appropriate, will be deleted during Golden Sets review.
 ```
 __Examples:__
 * “A biographic summary of the research of Dr Graham Charles George Argent (born 15 May 1941, died 24 April 2019) is presented, summarising his research career. Expedition information, including dates, collection number series and the names of collaborators, is given, as is a list of his publications, annotated with taxonomic decisions and the names of new species described within them{cite}`Edinburgh`”.
@@ -159,7 +159,7 @@ __Examples:__
 
 ## Problem: Obituaries
 ```{margin}
-__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List). Indexing Team: Delete during Golden Sets review.
+__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). Indexing Team: Delete during Golden Sets review.
 ```
 __Examples:__
 * “This is a biography and obituary of the German Democratic Republic palynologist Dr Eberhard Schulz (1931–2017). A pioneer in Mesozoic palynology, he established … the basis of today’s palynological research, especially in the Triassic and Jurassic of Eastern Germany … also give us an insight in German history, and the restrictions and challenges that scientists faced in the German Democratic Republic...{cite}`Palynology`”
@@ -168,7 +168,7 @@ __Examples:__
 
 ## Problem: Meeting or Conference report/abstracts, poster sessions with abstract only
 ```{margin}
-__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List). Indexing Team: Delete during Golden Sets review.
+__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV). Indexing Team: Delete during Golden Sets review.
 ```
 __Examples:__
 * “Poster session 2Peptide identification methodology introduces bias in the detected repertoire of MHC presented peptides” (abstract and full-text are the same){cite}`PARKER`
@@ -177,7 +177,7 @@ __Examples:__
 
 ## Problem: “out of subject scope”, not aligned with any of the USDA topic areas
 ```{margin}
-__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams (CSE Abstracts Error List) so we can identify journal title and whether it meets guidelines for inclusion. 
+__Action to take:__ Indexer: Note batch and AGID. Copy example(s) and send to Branch Chief via email and Teams [(CSE Abstracts Error List)](https://usdagcc.sharepoint.com/:f:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EpkNUx1jaRlAqqEyQtI14D0BvMyzUb0_sC6XJ-Q9Svnycg?e=Q4wrCV) so we can identify journal title and whether it meets guidelines for inclusion. 
 ```
 __Examples:__
 * "Since the silent era, Hollywood has maintained a particular fascination with disasters. Up on the screen buildings collapse, volcanoes erupt and tornadoes destroy all in their path. This article investigates the Hollywood disaster genre for its depiction of sexual and gender identities...{cite}`GeoJournal`"
@@ -185,4 +185,10 @@ __Examples:__
 * “This report...intends to show that a significant number of unintended acceleration (UA) accidents are caused by driver pedal confusion under certain circumstances... We look at 27 UA episodes … from 2014 to 2021 in Daegu/Gyeongbuk region, Republic of Korea...{cite}`Forensic`" 
 
 * “This study examines the narrative strategies used by Bill Clinton in his 1992 and 1996 campaign biography videos. Both videos address similar themes, utilize similar aesthetic strategies, and even repeat key rhetorical structures...{cite}`ABS`”
+
+## References 
+
+```{bibliography} /book/references.bib
+:filter: docname in docnames
+```
 
