@@ -81,7 +81,7 @@ When considering proposal of a new term, always ask:
 * Will this term be used often enough to justify its addition to NALT?
 * Does this term represent a concept which can be consistently and reliability differentiated from any other concept?
 
-### _Proposing a new term:_
+### Proposing a new term:
 *	Consult relevant, authoritative resources (e.g., AGROVOC, CAB thesaurus) first when proposing a new term. Consider other specialized resources in (e.g., MESH, AlgaeBase), dictionaries, handbooks, monographs, textbooks and number of postings of the proposed concept in relevant databases. Do not use all-purpose dictionaries. See [Supplement B](SupplementB) for some additional resources.
 +++
 *	Changes include adding or deprecating (removing from preferred/accepted terminology) concepts, modifying hierarchies and adding/amending definitions or scope notes. Justification and additional comments should be neutral and business-like. Recommend term during Golden Sets review (see [Work Flow](Workflow) below)
@@ -146,7 +146,7 @@ When considering proposal of a new term, always ask:
     *	__renal calculi__, not kidney stones
     *	__tibia__, not shinbone
 
-### _Creating hierarchy and relationships:_
+### Creating hierarchy and relationships:
 *	Supply at least one BT (preferably an existing NALT term) for each proposed term. The relationship between a proposed term and its BT should be generic (i.e., the BT is a class of concepts of which the proposed term is a member or is a part/whole relationship). If the proposed term is already in another thesaurus, use that hierarchy if the same or similar terms are already in NALT.
     *	proposed term __rosemary oil__ – BT __essential oils__ (or other appropriate NALT term)
     *	proposed term __brain-gut axis__ – BT __neurophysiology__ (or other appropriate NALT term)
@@ -199,7 +199,7 @@ The team will also consider highlighted annotations that are not currently in *N
 +++
 * Agricola Guide to Subject Indexing (revised 2010).  
 +++
-* Thomas, S. E. (1990). Bibliographic control and agriculture, Library Trends, 38:3, pp.542-561, also in Russell, K. W. and Pisa, M. G. Agricultural Libraries and Information. University of Illinois Graduate School of Library and Information Science 1990.
+* Thomas, S. E. (1990). Bibliographic control and agriculture, Library Trends, University of Illinois Graduate School of Library and Information Science 1990.
 +++
 * Bonnichon, M. (1994). Guide to indexing for AGRIS and CARIS. Rome: FAO. 
 +++
@@ -207,7 +207,7 @@ The team will also consider highlighted annotations that are not currently in *N
 +++
 * Gibbs, J. Standards for Indexing. Information Standards Quarterly, Summer & Fall 2015
 +++
-* Hood, M. W. (1991). AGRICOLA--guide to subject indexing. Beltsville, Md: National Agricultural Library, Technical Services Division.  
+* AGRICOLA--guide to subject indexing. Beltsville, Md: National Agricultural Library, Technical Services Division. Hood, M. W. (1991). 
 +++
 * Indexing and Informatics Branch. Interim Policy: Decision table on problematic items found in indexing, July 2, 2014. Updated July 9, 2014.  
 +++

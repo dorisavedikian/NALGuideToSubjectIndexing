@@ -179,6 +179,6 @@
 # 
 # ## References 
 # 
-# ```{bibliography} /book/references.bib
+# ```{bibliography} /book/references/references.bib
 # :filter: docname in docnames
 # ```

@@ -6,7 +6,13 @@ root: index
 parts:
   - caption: A Guide to Subject Indexing
     chapters:
-      - file: book/TOC/TableofContent
+      - file: book/TOC/BasicIndexingGuidelines
+      - file: book/TOC/AgricolaDB
+      - file: book/TOC/MARC
+      - file: book/TOC/NAL
+      - file: book/TOC/Workflow
+      - file: book/TOC/SubjectAnalysis
+      - file: book/TOC/Resources
   - caption: Guide Supplements
     chapters:
       - file: book/Supplements/SupplementA
@@ -17,13 +23,3 @@ parts:
       - file: book/Supplements/SupplementF
 
    
-
-#  - caption: Guide Supplements
-#    chapters:
-#      - file: book/Supplements/SupplementA
-#      - file: book/Supplements/SupplementB
-#      - file: book/Supplements/SupplementC
-#      - file: book/Supplements/SupplementD
-#      - file: book/Supplements/SupplementE
-#      - file: book/Supplements/SupplementF
-#      - file: book/Supplements/SupplementG

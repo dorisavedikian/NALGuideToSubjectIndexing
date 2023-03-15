@@ -189,7 +189,7 @@
 
 # * Agricola Guide to Subject Indexing (revised 2010).
 
-# * Thomas, S. E. (1990). Bibliographic control and agriculture, Library Trends, 38:3, pp.542-561, also in Russell, K. W. and Pisa, M. G. Agricultural Libraries and Information. University of Illinois Graduate School of Library and Information Science 1990.
+# * Thomas, S. E. (1990). Bibliographic control and agriculture, Library Trends, University of Illinois Graduate School of Library and Information Science 1990.
 
 # * Bonnichon, M. (1994). Guide to indexing for AGRIS and CARIS. Rome: FAO.
 
@@ -197,7 +197,7 @@
 
 # * Gibbs, J. Standards for Indexing. Information Standards Quarterly, Summer & Fall 2015
 
-# * Hood, M. W. (1991). AGRICOLA--guide to subject indexing. Beltsville, Md: National Agricultural Library, Technical Services Division.
+# * AGRICOLA--guide to subject indexing. Beltsville, Md: National Agricultural Library, Technical Services Division. Hood, M. W. (1991).
 
 # * Indexing and Informatics Branch. Interim Policy: Decision table on problematic items found in indexing, July 2, 2014. Updated July 9, 2014.
 

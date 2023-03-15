@@ -75,5 +75,6 @@ sphinx:
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - book/references.bib
-  - book/references2.bib
+  - book/references/references.bib
+  - book/references/references2.bib
+  - book/references/references3.bib
