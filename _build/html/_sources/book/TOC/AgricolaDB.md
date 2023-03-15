@@ -11,7 +11,6 @@ kernelspec:
   name: python3
 ---
 
-
 # The Agricola Database
 
 AGRICOLA (AGRICultural OnLine Access) is a bibliographic database of over 5 million citations to the agricultural literature, created by the National Agricultural Library (NAL) and its cooperators.  Previous versions of the indexing guidelines contain the history of Agricola, NAL Thesaurus (NALT) and past indexing practices – see the bibliography for those.

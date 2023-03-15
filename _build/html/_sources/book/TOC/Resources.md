@@ -12,6 +12,8 @@ kernelspec:
 ---
 
 # Resources
+
+## Links to internal and external resources
 * [AGRICOLA Guide to subject indexing, Technical Services Division. Hood, M. W., (1991).National Agricultural Library](https://drive.google.com/file/d/1P-6qPdme76bSz1FlqATmagMpUoSEc0vv/view?usp=share_link) 
 +++
 * [Guide to indexing for AGRIS and CARIS. Bonnichon, M., (1994).]() 
@@ -34,6 +36,15 @@ kernelspec:
 +++
 * [Bibliographic control and agriculture, Library Trends, University of Illinois, Thomas, S. E., 1990.](https://drive.google.com/file/d/1EIjo-H7apg-tSDNC7f2fyCChSfVFUyje/view?usp=share_link)
 +++
+* Criteria for Indexes Working Group [ANSI/NISO Z39.4-2021](https://groups.niso.org/higherlogic/ws/public/download/25816/ANSI_NISO_Z39.94-2021_Criteria_for_Indexes.pdf)
++++
+* National Library of Medicine, MEDLINE [Indexing Online Training Course, April 15, 2015.](https://www.nlm.nih.gov/bsd/indexing/training/USE_010.html)
++++
+* Basics of Subject Indexing, [Unit-9](http://egyankosh.ac.in/handle/123456789/35769), Sarkhel, J. (2017). 
++++
+* Language Is The Next Great Frontier In AI, [Forbes, February/March 2022.](https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/?sh=713f820a5c50)
+
+## Articles 
 * Assessment of Food and Nutrition Related Descriptors in Agricultural and Biomedical Thesauri. {cite:p}`Bartol_09`
 +++
 * Indexing Practices at the National Agricultural Library, Cataloging & Classification Quarterly, {cite}`NALIndex`
@@ -63,14 +74,6 @@ kernelspec:
 * Information Retrieval in Food Science Research II: Accounting for Relevance When Evaluating Database Performance. Journal of Food Science, {cite}`urhan2`
 +++
 * A Random Walk on an Ontology: Using Thesaurus Structure for Automatic Subject Indexing. {cite}`willis:13`
-+++
-* Criteria for Indexes Working Group [ANSI/NISO Z39.4-2021](https://groups.niso.org/higherlogic/ws/public/download/25816/ANSI_NISO_Z39.94-2021_Criteria_for_Indexes.pdf)
-+++
-* National Library of Medicine, MEDLINE [Indexing Online Training Course, April 15, 2015.](https://www.nlm.nih.gov/bsd/indexing/training/USE_010.html)
-+++
-* Basics of Subject Indexing, [Unit-9](http://egyankosh.ac.in/handle/123456789/35769), Sarkhel, J. (2017). 
-+++
-* Language Is The Next Great Frontier In AI, [Forbes, February/March 2022.](https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/?sh=713f820a5c50)
 
 ## References 
 ```{bibliography} /book/references/references2.bib
