@@ -3,36 +3,32 @@
 
 # # Resources
 # 
-# ## Links to internal and external resources
-# * [AGRICOLA Guide to subject indexing, Technical Services Division. Hood, M. W., (1991).National Agricultural Library](https://drive.google.com/file/d/1P-6qPdme76bSz1FlqATmagMpUoSEc0vv/view?usp=share_link)
+# ## Indexing Guidelines - Resource links in Teams
+# * [2004 Agricola Guide to Subject Indexing 2nd draft](https://usdagcc.sharepoint.com/:w:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EXWCqj1BuR5MhiRUVoeJ3hgBc6s1ebL4VZ9_y861v9vrfg?e=ykoXlr)
 
-# * [Guide to indexing for AGRIS and CARIS. Bonnichon, M., (1994).]()
+# * [Change to Automatic Indexing_Subject Analysis Quality & Development of Draft Guidelines](https://usdagcc.sharepoint.com/:w:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EW0Iu6pGz-xJkEVhjvrv2d0BTMnwSn3owkH7NRNgMgqSmQ?e=TETtrr)
 
-# * [AGRICOLA Guide to Subject Indexing, 2nd draft, 2004 ](https://drive.google.com/file/d/1nMUq1DwP5lSdg-J6VR2IaJ3IcLEnd_Ip/view?usp=share_link)
+# * [Gibbs Standards for Indexing](https://usdagcc.sharepoint.com/:b:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/ETUYtRT1TdRErhNSskHZtZQBsdoN6SsRJSnZ9kpc_meYeQ?e=0aCw1K)
 
-# * [AGRICOLA Guide to Subject Indexing, (revised 2010)](https://drive.google.com/file/d/1VcFCqQ3BMmNLPDzgTYbCI-Eki9CL--Vk/view?usp=share_link)
+# * [Hood Agricola Guide to Subject Indexing 1991](https://usdagcc.sharepoint.com/:b:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EVdksT3qm2RGlhm_OBqz6T0BgvoUKM7KdgcCLXmaOZnEdg?e=eSAjvu)
 
-# * [Interim Policy: Decision table on problematic items found in indexing, July 2, 2014. Updated July 9, 2014. IIB, NAL.](https://drive.google.com/file/d/1NoWPZSkbXGzfhCmvPR5n5RnwqWhEhSB9/view?usp=share_link)
+# * [Interim Policy on problem articles encountered in indexing](https://usdagcc.sharepoint.com/:w:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/ETKI7olZMtRLrosAWqNmNbYBqxjMd6EGC-ESzIFS2toTpA?e=IHVTG6)
 
-# * [IIB Manual: Change to Automatic Indexing (AI), September 2012 draft. NAL.](https://drive.google.com/file/d/19oAT-jZ6VPe946l27ZO85kLM4DMHmAzQ/view?usp=share_link)
+# * [Indexing Guidelines for Automatic Indexing BASICS 2011](https://usdagcc.sharepoint.com/:w:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EXCoj6C3gXFOsxk_NE6IM5gB1EopxE8TyA2N3pkz8FTZXw?e=wQxOyD)
 
-# * [Indexing Guidelines for Automatic Indexing – DRAFT for leading discussion on Wednesday, May 4, 2011](https://drive.google.com/file/d/1Xl-ncNpbdBzu7QeyWElYyGydhKYE_Eul/view?usp=share_link)
+# * [Medline Principles of Subject Indexing](https://usdagcc.sharepoint.com/:w:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EUVyuQGIi7dOstFblsW2ot4BIcEhyfU1192Sl28IAaZebg?e=zMFfIr)
 
-# * [Change to Automatic Indexing (AI): Subject Analysis Quality and Indexing Guidelines, (last update: Aug 30, 2012)](https://drive.google.com/file/d/1P4HHLY3MqG9KXPpSQ__-WtTiRu3Ic9A_/view?usp=share_link)
+# * [IIB Manual 2012_Change to Automatic Indexing](https://usdagcc.sharepoint.com/:w:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/ET952RQhflBLhjF1x7SzmDkBoyCQYibHY53n_-E5cZeIWg?e=WordXp)
 
-# * [Medline Principles of Subject Indexing. May 9, 2014.](https://drive.google.com/file/d/1OK7lqsiRrZILmUgxul2auc1HOHgK1y_d/view?usp=share_link)
+# * [Thomas_Bibliographic control and agriculture](https://usdagcc.sharepoint.com/:b:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EVFo0hBlenpGq6mQYmbmy_wBkQKdeKy1JGjIJ4Gr9-1CTA?e=Aigsq2)
 
-# * [Gibbs, J. Standards for Indexing, Summer & Fall 2015](https://drive.google.com/file/d/1w-Ia5UXM6r-sHBfga8yCeyU2TBo_cjEZ/view?usp=share_link)
+# * [Criteria for Indexes Working Group](https://groups.niso.org/higherlogic/ws/public/download/25816/ANSI_NISO_Z39.94-2021_Criteria_for_Indexes.pdf)
 
-# * [Bibliographic control and agriculture, Library Trends, University of Illinois, Thomas, S. E., 1990.](https://drive.google.com/file/d/1EIjo-H7apg-tSDNC7f2fyCChSfVFUyje/view?usp=share_link)
+# * [National Library of Medicine, MEDLINE Indexing Online Training Course, April 15, 2015.](https://www.nlm.nih.gov/bsd/indexing/training/USE_010.html)
 
-# * Criteria for Indexes Working Group [ANSI/NISO Z39.4-2021](https://groups.niso.org/higherlogic/ws/public/download/25816/ANSI_NISO_Z39.94-2021_Criteria_for_Indexes.pdf)
+# * [Basics of Subject Indexing, Sarkhel, J. (2017), Unit-9](http://egyankosh.ac.in/handle/123456789/35769),
 
-# * National Library of Medicine, MEDLINE [Indexing Online Training Course, April 15, 2015.](https://www.nlm.nih.gov/bsd/indexing/training/USE_010.html)
-
-# * Basics of Subject Indexing, [Unit-9](http://egyankosh.ac.in/handle/123456789/35769), Sarkhel, J. (2017).
-
-# * Language Is The Next Great Frontier In AI, [Forbes, February/March 2022.](https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/?sh=713f820a5c50)
+# * [Language Is The Next Great Frontier In AI, Forbes, February/March 2022.](https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/?sh=713f820a5c50)
 # 
 # ## Articles 
 # * Assessment of Food and Nutrition Related Descriptors in Agricultural and Biomedical Thesauri. {cite:p}`Bartol_09`
@@ -64,6 +60,8 @@
 # * Information Retrieval in Food Science Research II: Accounting for Relevance When Evaluating Database Performance. Journal of Food Science, {cite}`urhan2`
 
 # * A Random Walk on an Ontology: Using Thesaurus Structure for Automatic Subject Indexing. {cite}`willis:13`
+
+# * Bonnichon, M. (1994). Guide to indexing for AGRIS and CARIS. Rome: FAO.{cite}`Bonni` See also, [this website related to the guide](https://www.fao.org/3/u1808e/U1808E00.htm#TopOfPage)
 # 
 # ## References 
 # ```{bibliography} /book/references/references2.bib
