@@ -11,6 +11,7 @@ kernelspec:
   name: python3
 ---
 
+(NAL)=
 # The NAL Thesaurus (NALT)
 
 The [***NALT***](https://agclass.nal.usda.gov/) is the controlled vocabulary and sole source of terms/concepts for indexing articles. These terms can be organisms (taxonomic or common names), products, phenomena, particular objectives or perspectives, facilities, activities, operations, equipment, processes, techniques, geographic names, environmental conditions and the elements that affects any of these. 
@@ -30,7 +31,7 @@ When considering proposal of a new term, always ask:
 ## Proposing a new term:
 *	Consult relevant, authoritative resources (e.g., AGROVOC, CAB thesaurus) first when proposing a new term. Consider other specialized resources in (e.g., MESH, AlgaeBase), dictionaries, handbooks, monographs, textbooks and number of postings of the proposed concept in relevant databases. Do not use all-purpose dictionaries. See [Supplement B](SupplementB) for some additional resources.
 +++
-*	Changes include adding or deprecating (removing from preferred/accepted terminology) concepts, modifying hierarchies and adding/amending definitions or scope notes. Justification and additional comments should be neutral and business-like. Recommend term during Golden Sets review (see [Work Flow](Workflow))
+*	Changes include adding or deprecating (removing from preferred/accepted terminology) concepts, modifying hierarchies and adding/amending definitions or scope notes. Justification and additional comments should be neutral and business-like. Recommend term during Golden Sets review (see [Work-Flow](Workflow) )
 +++
 *	If the proposed term is already included in another thesaurus, suggest the term as it appears in that thesaurus to maintain consistency. If the term is in several thesauri in different forms (e.g., hyphenation, capitalization), recommend the one that follows NALT naming convention (see below) with other forms included as entry-level terms.
 +++

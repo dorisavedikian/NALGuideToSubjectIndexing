@@ -1,0 +1,650 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Methodology and Techniques</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <link rel="canonical" href="https://dorisavedikian.github.io/NALGuideToSubjectIndexing/book/SubjectAnalysis/Methodology.html" />
+    <link rel="shortcut icon" href="../../_static/fav.ico"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Basics for Using Taxonomic Names" href="Basics_Taxonomic.html" />
+    <link rel="prev" title="Resources" href="../TOC/Resources.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../../_static/logo.png" class="logo" alt="logo">
+      
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search the docs ..." aria-label="Search the docs ..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  A Guide to Subject Indexing
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../TOC/BasicIndexingGuidelines.html">
+   Basic Indexing Guidelines
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../TOC/AgricolaDB.html">
+   The Agricola Database
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../TOC/MARC.html">
+   MARC Format
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../TOC/NAL.html">
+   The NAL Thesaurus (NALT)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../TOC/Workflow.html">
+   Work Flow
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../TOC/Resources.html">
+   Resources
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Subject Analysis
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Methodology and Techniques
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="Basics_Taxonomic.html">
+   Basics for Using Taxonomic Names
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="GeographicDescriptor.html">
+   Geographic Descriptors
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Guide Supplements
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Supplements/SupplementA.html">
+   Supplement A: Types of articles not indexed for Agricola and how to report problematic articles
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Supplements/SupplementB.html">
+   Supplement B: Additional resources for indexers
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Supplements/SupplementC.html">
+   Supplement C: Preferred Assignment of Names for Organisms and Products - Summary
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Supplements/SupplementD.html">
+   Supplement D: Similar NALT terms in different hierarchies
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Supplements/SupplementE.html">
+   Supplement E: Ambiguous concepts
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Supplements/SupplementF.html">
+   Supplement F: Checklist of Common Indexing Errors
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<div class="menu-dropdown menu-dropdown-launch-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Launch interactive content">
+      <i class="fas fa-rocket"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://mybinder.org/v2/gh/dorisavedikian/NALGuideToSubjectIndexing/master?urlpath=tree/book/SubjectAnalysis/Methodology.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Launch on Binder"
+>
+  
+
+<span class="headerbtn__icon-container">
+  
+    <img src="../../_static/images/logo_binder.svg">
+  </span>
+<span class="headerbtn__text-container">Binder</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://colab.research.google.com/github/dorisavedikian/NALGuideToSubjectIndexing/blob/master/book/SubjectAnalysis/Methodology.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Launch on Colab"
+>
+  
+
+<span class="headerbtn__icon-container">
+  
+    <img src="../../_static/images/logo_colab.png">
+  </span>
+<span class="headerbtn__text-container">Colab</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://github.com/dorisavedikian/NALGuideToSubjectIndexing"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/dorisavedikian/NALGuideToSubjectIndexing/issues/new?title=Issue%20on%20page%20%2Fbook/SubjectAnalysis/Methodology.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/dorisavedikian/NALGuideToSubjectIndexing/edit/master/book/SubjectAnalysis/Methodology.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Edit this page"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="headerbtn__text-container">suggest edit</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../../_sources/book/SubjectAnalysis/Methodology.ipynb"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download notebook file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-code"></i>
+  </span>
+<span class="headerbtn__text-container">.ipynb</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="../../_sources/book/SubjectAnalysis/Methodology.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   Methodology and Techniques
+  </a>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#references">
+   References
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Methodology and Techniques</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   Methodology and Techniques
+  </a>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#references">
+   References
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section id="methodology-and-techniques">
+<h1>Methodology and Techniques<a class="headerlink" href="#methodology-and-techniques" title="Permalink to this headline">#</a></h1>
+<p>Things to consider:</p>
+<ul class="simple">
+<li><p>What is the method/technique (“method”) being discussed?</p></li>
+<li><p>Is the method the primary (or one of the primary) concept in the article or just mentioned as a routine part of the process?</p></li>
+<li><p>Is the method analytical, statistical, computational, role-based, discipline-based, etc.?</p></li>
+<li><p>Are steps and/or equipment described in detail for doing the analysis?</p></li>
+<li><p>Is different equipment using the same method being compared?</p></li>
+<li><p>If more than one method is discussed, is a comparison being done between the two, e.g., one is more accurate, one is easier to do than the other?</p></li>
+<li><p>Is the method important to or for reaching the conclusion?</p></li>
+</ul>
+<p><u> When methodology or technique terms <b>should</b> be selected for indexing </u></p>
+<p>Check the full-text article (if available) to determine if the method or technique is described more in detail or is only listed once or a few times in explaining the experiment or research.</p>
+<p>If a methodology topic is a primary focus of the research project, index it.  This includes:</p>
+<ul class="simple">
+<li><p>New methodology</p>
+<ul>
+<li><p>“The study focuses on the development of a new procedure for the preparation of reference samples with a given concentration for X-ray fluorescence analysis …”<span id="id1">[<a class="reference internal" href="#id6" title="I.P. Sverchkov, I.M. Gembitskaya, V.G. Povarov, and M.A. Chukaeva. Method of reference samples preparation for x-ray fluorescence analysis. Talanta, 252:123820, 2023. URL: https://www.sciencedirect.com/science/article/pii/S0039914022006166, doi:https://doi.org/10.1016/j.talanta.2022.123820.">Sverchkov <em>et al.</em>, 2023</a>]</span></p></li>
+</ul>
+</li>
+<li><p>Analytical methods are the focus of the article/research</p>
+<ul>
+<li><p>“…In this review, the analytical methods of PAHs in sediment, focused on the methods of sample extraction, purification, concentration and determination, are summarized.”<span id="id2">[<a class="reference internal" href="#id7" title="Ling Wu, Rui Sun, Yongxin Li, and Chengjun Sun. Sample preparation and analytical methods for polycyclic aromatic hydrocarbons in sediment. Trends in Environmental Analytical Chemistry, 24:e00074, 2019. URL: https://www.sciencedirect.com/science/article/pii/S2214158819300339, doi:https://doi.org/10.1016/j.teac.2019.e00074.">Wu <em>et al.</em>, 2019</a>]</span></p></li>
+</ul>
+</li>
+<li><p>Research includes improving a known methodology</p></li>
+<li><p>Methodology is used in a new or different way</p></li>
+<li><p>Methodology is evaluated for accuracy or reliability</p></li>
+<li><p>Two or more methods are being evaluated</p></li>
+</ul>
+<p>Consider indexing methodology if:</p>
+<ul class="simple">
+<li><p>it provides a unique or characteristic mechanism for studying or evaluating the primary topic</p>
+<ul>
+<li><p>“…presents the advantages of microextraction to encourage the use of this technique in microbial analysis …”<span id="id3">[<a class="reference internal" href="#id8" title="Joao Raul Belinato, Vinicius Ricardo Acquaro, Luciana Teresa Dias Cappelini, and Fabio Augusto. New prospects and problems in sample preparation methods for microbiome analysis. TrAC Trends in Analytical Chemistry, 143:116356, 2021. URL: https://www.sciencedirect.com/science/article/pii/S0165993621001795, doi:https://doi.org/10.1016/j.trac.2021.116356.">Belinato <em>et al.</em>, 2021</a>]</span></p></li>
+</ul>
+</li>
+<li><p>helps to describe the nature of the results.</p>
+<ul>
+<li><p>If an article is about the isolation, purification or fractionation of a mixture of compounds, <strong>high performance liquid chromatography</strong> might describe more precisely what kind of “isolation” is involved.</p></li>
+</ul>
+</li>
+</ul>
+<p>An article about determining of the structure of a chemical compound by nuclear magnetic resonance spectroscopy needs <u>both</u> <strong>chemical structure</strong> (or appropriate NT) and by <strong>nuclear magnetic resonance spectroscopy</strong> annotated because a user trying to determine the structure of a new compound by nuclear magnetic resonance would want to compare the spectral data of the new compound to the one in the article.</p>
+<p>An article showing determination of the ultrastructure of a biochemical compound by X-ray diffraction gives different data than one using scanning electron microscopy.  Users might need to know the technique used to determine the ultrastructure.</p>
+<p>An article about the effect of nutrient intake on some biochemical parameter or disease condition is best described by adding the method of data collection, e.g., epidemiological survey, dietary survey or clinical trial. While the article does not focus on the survey technique, including these topics may help to describe what the article is about.</p>
+<p><u>When the methodology or technique topics <b>should not</b> be selected for indexing</u></p>
+<p>Do not select the methodology or technique routinely if it is not the main topics discussed (“aboutness”). Is the article about this method or is it only mentioned as the technique the author used to do his research? Is the “how we do it” as important as “what are we trying to determine”? Consider whether or not a user would benefit from being able to retrieve that article using that descriptor.</p>
+<ul class="simple">
+<li><p>“The fall armyworm (FAW), Spodoptera frugiperda (J.E. Smith), is one of the most highly polyphagous invasive pests … However, little is known about the gut immune responses to the environment, particularly along the migration routes in Jianghuai, China, throughout the autumn and winter. In this study, high-throughput sequencing and real-time quantitative PCR (RT-qPCR) were employed to examine the variations in immune genes and gut microbiome communities between captive and wild fall armyworm populations …”<span id="id4">[<a class="reference internal" href="#id9" title="Renwen Zheng, Luoling Cheng, Jun Peng, Qianqian Li, Fan Yang, Dehua Yang, Yuxian Xia, and Qingfeng Tang. Comparative analysis of gut microbiota and immune genes linked with the immune system of wild and captive spodoptera frugiperda (lepidoptera: noctuidae). Developmental &amp; Comparative Immunology, 138:104530, 2023. URL: https://www.sciencedirect.com/science/article/pii/S0145305X22001926, doi:https://doi.org/10.1016/j.dci.2022.104530.">Zheng <em>et al.</em>, 2023</a>]</span> - <strong>quantitative polymerase chain reaction and high-throughput nucleotide sequencing</strong> are not necessary because it only describes how samples are processed.</p></li>
+</ul>
+<p>Some research articles give the details of the stepwise procedure of the overall analysis, such as collection of leaves, drying of leaves, milling of leaves, acid digestion of leaves, etc.  Do not index the individual stepwise procedures.</p>
+</section>
+<section id="references">
+<h1>References<a class="headerlink" href="#references" title="Permalink to this headline">#</a></h1>
+<div class="docutils container" id="id5">
+<dl class="citation">
+<dt class="label" id="id8"><span class="brackets"><a class="fn-backref" href="#id3">BADiasCappeliniA21</a></span></dt>
+<dd><p>Joao Raul Belinato, Vinicius Ricardo Acquaro, Luciana Teresa Dias Cappelini, and Fabio Augusto. New prospects and problems in sample preparation methods for microbiome analysis. <em>TrAC Trends in Analytical Chemistry</em>, 143:116356, 2021. URL: <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0165993621001795">https://www.sciencedirect.com/science/article/pii/S0165993621001795</a>, <a class="reference external" href="https://doi.org/https://doi.org/10.1016/j.trac.2021.116356">doi:https://doi.org/10.1016/j.trac.2021.116356</a>.</p>
+</dd>
+<dt class="label" id="id6"><span class="brackets"><a class="fn-backref" href="#id1">SGPC23</a></span></dt>
+<dd><p>I.P. Sverchkov, I.M. Gembitskaya, V.G. Povarov, and M.A. Chukaeva. Method of reference samples preparation for x-ray fluorescence analysis. <em>Talanta</em>, 252:123820, 2023. URL: <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0039914022006166">https://www.sciencedirect.com/science/article/pii/S0039914022006166</a>, <a class="reference external" href="https://doi.org/https://doi.org/10.1016/j.talanta.2022.123820">doi:https://doi.org/10.1016/j.talanta.2022.123820</a>.</p>
+</dd>
+<dt class="label" id="id7"><span class="brackets"><a class="fn-backref" href="#id2">WSLS19</a></span></dt>
+<dd><p>Ling Wu, Rui Sun, Yongxin Li, and Chengjun Sun. Sample preparation and analytical methods for polycyclic aromatic hydrocarbons in sediment. <em>Trends in Environmental Analytical Chemistry</em>, 24:e00074, 2019. URL: <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S2214158819300339">https://www.sciencedirect.com/science/article/pii/S2214158819300339</a>, <a class="reference external" href="https://doi.org/https://doi.org/10.1016/j.teac.2019.e00074">doi:https://doi.org/10.1016/j.teac.2019.e00074</a>.</p>
+</dd>
+<dt class="label" id="id9"><span class="brackets"><a class="fn-backref" href="#id4">ZCP+23</a></span></dt>
+<dd><p>Renwen Zheng, Luoling Cheng, Jun Peng, Qianqian Li, Fan Yang, Dehua Yang, Yuxian Xia, and Qingfeng Tang. Comparative analysis of gut microbiota and immune genes linked with the immune system of wild and captive spodoptera frugiperda (lepidoptera: noctuidae). <em>Developmental &amp; Comparative Immunology</em>, 138:104530, 2023. URL: <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0145305X22001926">https://www.sciencedirect.com/science/article/pii/S0145305X22001926</a>, <a class="reference external" href="https://doi.org/https://doi.org/10.1016/j.dci.2022.104530">doi:https://doi.org/10.1016/j.dci.2022.104530</a>.</p>
+</dd>
+</dl>
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./book/SubjectAnalysis"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="../TOC/Resources.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Resources</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="Basics_Taxonomic.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Basics for Using Taxonomic Names</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Doris Avedikian<br/>
+  
+      &copy; Copyright 2023.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>

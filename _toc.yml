@@ -11,8 +11,12 @@ parts:
       - file: book/TOC/MARC
       - file: book/TOC/NAL
       - file: book/TOC/Workflow
-      - file: book/TOC/SubjectAnalysis
       - file: book/TOC/Resources
+  - caption: Subject Analysis
+    chapters:  
+      - file: book/SubjectAnalysis/Methodology
+      - file: book/SubjectAnalysis/Basics_Taxonomic
+      - file: book/SubjectAnalysis/GeographicDescriptor 
   - caption: Guide Supplements
     chapters:
       - file: book/Supplements/SupplementA
