@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 1.5
-    jupytext_version: 1.14.5
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
----
+
 (SupplementA)=
 # Supplement A: Types of articles not indexed for Agricola and how to report problematic articles
 Annotate article individually as usual, but will be deleted during Golden Sets review
