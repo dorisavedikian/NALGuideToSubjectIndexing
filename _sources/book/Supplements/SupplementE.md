@@ -12,7 +12,7 @@ kernelspec:
 ---
 
 # Supplement E: Ambiguous concepts
-``{div} full-width
+
 Understand what you are annotating – do not automatically assume what an acronym, word or phrase means in the article. Terms that look like they should be in a particular hierarchy or related to certain terms may represent completely different concepts. If uncertain, check the original article (if full-text is available). And match with *NALT* preferred or entry-level terms and definitions. 
 
 *	<u>alveolar</u>: “Relating to the socket of a tooth or part of a jawbone which contains the tooth sockets OR relating to the alveoli of the lungs...” (_Oxford English Dictionary_)
@@ -48,7 +48,7 @@ Understand what you are annotating – do not automatically assume what an acron
 *	<u>survival analysis:</u> “...branch of statistics for analyzing the expected duration of time until one event occurs, such as death in biological organisms and failure in mechanical systems...” (Wikipedia)
 +++
 *	<u>vine copula:</u> “...A vine is a graphical tool for labeling constraints in high-dimensional probability distributions... Copulas are multivariate distributions with uniform univariate margins...” (Wikipedia)
-``
+
 
 ```{bibliography} /book/references/references7.bib
 :filter: docname in docnames
