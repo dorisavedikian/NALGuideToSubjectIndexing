@@ -10,58 +10,14 @@ kernelspec:
   language: python
   name: python3
 ---
-(SA)=
-# Subject Analysis
-```{contents} 
-:local:
-```
-## Methodology and Techniques
-
-Things to consider: 
-*	What is the method/technique (“method”) being discussed?
-*	Is the method the primary (or one of the primary) concept in the article or just mentioned as a routine part of the process?
-*	Is the method analytical, statistical, computational, role-based, discipline-based, etc.?
-*	Are steps and/or equipment described in detail for doing the analysis?
-*	Is different equipment using the same method being compared?
-*	If more than one method is discussed, is a comparison being done between the two, e.g., one is more accurate, one is easier to do than the other?
-*	Is the method important to or for reaching the conclusion?
-
-<u> When methodology or technique terms <b>should</b> be selected for indexing </u>
-
-Check the full-text article (if available) to determine if the method or technique is described more in detail or is only listed once or a few times in explaining the experiment or research.
-
-If a methodology topic is a primary focus of the research project, index it.  This includes:
-*	New methodology 
-    *	“The study focuses on the development of a new procedure for the preparation of reference samples with a given concentration for X-ray fluorescence analysis ...”{cite}`SVERCHKOV` 
-*	Analytical methods are the focus of the article/research
-    *	“...In this review, the analytical methods of PAHs in sediment, focused on the methods of sample extraction, purification, concentration and determination, are summarized.”{cite}`WU2019`  
-*	Research includes improving a known methodology
-*	Methodology is used in a new or different way
-*	Methodology is evaluated for accuracy or reliability
-*	Two or more methods are being evaluated
-
-Consider indexing methodology if: 
-*	it provides a unique or characteristic mechanism for studying or evaluating the primary topic
-    *	“...presents the advantages of microextraction to encourage the use of this technique in microbial analysis ..."{cite}`BELINATO2021`  
-*	helps to describe the nature of the results.
-    *	If an article is about the isolation, purification or fractionation of a mixture of compounds, __high performance liquid chromatography__ might describe more precisely what kind of “isolation” is involved.
-
-An article about determining of the structure of a chemical compound by nuclear magnetic resonance spectroscopy needs <u>both</u> __chemical structure__ (or appropriate NT) and by __nuclear magnetic resonance spectroscopy__ annotated because a user trying to determine the structure of a new compound by nuclear magnetic resonance would want to compare the spectral data of the new compound to the one in the article.
-
-An article showing determination of the ultrastructure of a biochemical compound by X-ray diffraction gives different data than one using scanning electron microscopy.  Users might need to know the technique used to determine the ultrastructure.
-
-An article about the effect of nutrient intake on some biochemical parameter or disease condition is best described by adding the method of data collection, e.g., epidemiological survey, dietary survey or clinical trial. While the article does not focus on the survey technique, including these topics may help to describe what the article is about.
-	
-<u>When the methodology or technique topics <b>should not</b> be selected for indexing</u>
-
-Do not select the methodology or technique routinely if it is not the main topics discussed (“aboutness”). Is the article about this method or is it only mentioned as the technique the author used to do his research? Is the “how we do it” as important as “what are we trying to determine”? Consider whether or not a user would benefit from being able to retrieve that article using that descriptor. 
-  *	“The fall armyworm (FAW), Spodoptera frugiperda (J.E. Smith), is one of the most highly polyphagous invasive pests … However, little is known about the gut immune responses to the environment, particularly along the migration routes in Jianghuai, China, throughout the autumn and winter. In this study, high-throughput sequencing and real-time quantitative PCR (RT-qPCR) were employed to examine the variations in immune genes and gut microbiome communities between captive and wild fall armyworm populations ...”{cite}`ZHENG2023` - __quantitative polymerase chain reaction and high-throughput nucleotide sequencing__ are not necessary because it only describes how samples are processed. 
-
-Some research articles give the details of the stepwise procedure of the overall analysis, such as collection of leaves, drying of leaves, milling of leaves, acid digestion of leaves, etc.  Do not index the individual stepwise procedures. 
 
 ## Basics for Using Taxonomic Names
 
 (see [Supplement C](SuppC) for a summary of this section)
+
+```{contents}
+:local:
+```
 
 Check taxonomy names carefully. Research anything that is not clear and/or listed in NALT; search multiple relevant databases and websites, if needed (see [Supplement B](SupplementB)). 
 
@@ -180,7 +136,7 @@ Articles less than one page on insect or plant taxonomy and nomenclature as well
 2.	Consider the role/context of the animals (e.g., __racing animals, pets, old animals,__ etc.) if it is the focus of the research or discussion, not just mentioned in passing. Check the __animals__ or __mammals__ hierarchies to find the appropriate term(s).
     1.	In a discussion of “facility decontamination techniques used to improve the health and welfare of transgenic mice,” the data discusses the condition of “old mice.”  The terms for this article should include __mice, old animals, transgenic animals__ and __laboratory animals__ (see item [DD](DD) below).
 3.	Add the breed name of the animal when it is significant to the research.
-    1.	For “A cross-sectional study of paratuberculosis in 1155 Danish Holstein-Friesian, Ayrshire and Jersey dairy cows,” the breed names __Holstein, Ayrshire (cattle breed)__, and ___Jersey__ would be assigned, along with __dairy cows__.
+    1.	For “A cross-sectional study of paratuberculosis in 1155 Danish Holstein-Friesian, Ayrshire and Jersey dairy cows,” the breed names __Holstein, Ayrshire (cattle breed)__, and __Jersey__ would be assigned, along with __dairy cows__.
     2.	In “Effects of dietary citrus extract on growth performance, carcass characteristics and meat quality of pigs”, the title and first sentence provides the majority of terms, “This study investigated the effects of citrus extract on growth, carcass and meat quality of Duroc × Landrace × Large White pigs...”
 
 (DD)=
@@ -228,97 +184,7 @@ A primary consideration in this section are indexing practices that will recogni
 * If the articles equally covers more than three species (or genus, etc.) under one genus (or family, etc.), use the genus (or family, etc.) name. 
 * Assign terms for diseases (human, animal and plant) and experimental animal models according to the sections on <u>Use of terms for diseases</u> and <u>Use of terms for experimental animal models</u>.
 
-## Geographic Descriptors
-Include geographical terms under these circumstances:
-*	there is a specific geographic location in the title
-*	the article contains maps of specific geographic area(s)
-*	a specific area has been surveyed
-*	field research has been or is being done
-*	flora or fauna of a region has been or is being studied
-*	new taxa or other taxonomic information (e.g., ecological invasion, geographical distribution) are described
-*	specific organizations or institutions are the primary topic {cite}`f` 
-
-Consider including geographical topics for articles with these subjects:
-*	ecology, including pollution
-*	economics
-*	education/training
-*	epidemiology
-*	history/paleontology/archaeology
-*	human ecology
-*	land and/or water resources
-*	legislation, jurisprudence or politics
-*	meteorology/climatology
-*	sociology
-
-Geographical terms should be added for living subjects studied in the natural environment or specimens collected in one country and studied or held in another. 
-  *	A study about food habits of Salvadorans living in Manhattan would be assigned New York and Hispanics {cite}`f` as descriptors.  
-  *	An article about insects collected in Ghana but studied at an ARS laboratory in Maryland would be assigned Ghana (but not Maryland).
-  *	An article about captive lions in an American zoo would not be assigned a geographic term. The zoo’s location may be included if it is relevant to the entire article. 
-
-Some countries, states and regions have narrower or related concepts. It may be necessary to research which term is the correct one(s) to annotate. 
- *	“In 2019, leaves with anthracnose symptoms were observed on pitcher plants (Sarracenia purpurea subsp. purpurea f. heterophylla) in Okinawa Prefecture, Japan...”{cite}`f` Okinawa is an entry-level term for Ryukyu Archipelago, an NT of Japan. 
- *	“...we develop a novel semi‐quantitative metabarcoding approach that combines specimen counts and size‐sorting to characterize arthropod community‐level diversity patterns along elevational transects on two different volcanoes of the island of Hawai‘i...”{cite}`f`. The study is being done specifically on Hawaii (island), not across multiple islands of Hawaii.
- *	"Losses of C and N from the forest floor and top 20-cm of soil were estimated following separate severe wildfires at two Long-Term Soil Productivity sites in the Sierra Nevada of California, USA. Experimental treatments applied 20 years prior to the wildfires..."{cite}`f`v Since they are related (not BT-NT),  both California and Sierra Nevada (California) can be annotated. See discussion below on Named Geographical Regions. 
-
-Do not assume that a cardinal direction is part of an official state, territory or country name and not just indicating a part of the state, territory or country. If the study area is not clear in the abstract, check the full text for any maps or descriptions. 
- *	“...we present and examine a relatively dense network of wood property chronologies...from several species in Tasmania, southern Australia...”{cite}`f`
- *	"... Our study area consisted of 26 sites in western Virginia within the Blue Ridge, Ridge and Valley, and Appalachian Plateau physiographic provinces, extending from Highland County in the north to Lee County in the southwest...”{cite}`f` Maps in the full text articles confirm the study area is in the southwestern corner of Virginia. 
- *	"...The South African soil data, together with the SOTER data of Angola, Botswana, eSwatini (previously Swaziland), Namibia, Mozambique, Tanzania, and Zimbabwe formed the SOTERSAF database..."{cite}`f` A map showing the study area confirms it covers Angola, Botswana, eSwatini, Namibia, Mozambique, South Africa, Tanzania, and Zimbabwe so Southern Africa would be annotated. 
-
-If they are specifically mentioned in the article, Named Geographical Regions may be annotated alongside country/state names, particularly those comprising a large area covering several countries, states or bodies of water; denoting a particular area of a country or continent; and/or representing an environment different (e.g., climatically, geomorphologically, culturally) from other parts of that country or state. 
- *	Amazonia
- *	El Gran Chaco
- *	Himalayan region
- * Maghreb
- *	Pacific Rim
-
-Confirm the correct location of all geographic names, especially those not in NALT, since some names are used in more than one country or location.
- *	Iran Mountains – mountain range on Borneo 
- *	Mérida – city in both Spain and Mexico
- *	Plymouth – city and/or county in several US states (e.g., Massachusetts, Michigan and Connecticut), England and Montserrat
- *	Washington – Washington (state), Washington DC (preferred term District of Columbia), city and/or county in several US States (e.g., Georgia, Illinois and Pennsylvania), 
-
-Locations not included in NALT may not be easily found through standard USDA resources. It may be necessary to research where the place is and what it represents. 
- *	South China Karst (UNESCO World Heritage Site in China){cite}`f`
- *	Transnistria (unrecognized breakaway state internationally considered part of Moldova){cite}`f`
-
-Do not use historical geographic locations for current publications. 
- *	Czechoslovakia (existed 1918-1992) -> use Czech Republic and/or Slovakia
- *	Yugoslavia (existed 1918-1992) -> use Bosnia-Herzegovina, Croatia, Slovenia, Republic of North Macedonia and/or Serbia and Montenegro. NOTE: Kosovo is a breakaway state of Serbia (split off in 2008) that is recognized by US and some other counties but has only Europe as its BT.
-
-Geographic place names may include landforms as part of the name. Consult NALT for the appropriate term to annotate. Do not include the landform as a separate term, unless it is relevant to the entire article’s subject. Note whether the landform starts with an upper or lower case letter and is a singular or plural form.
- *	entry-level term Blue Mountains – preferred term Blue Mountain Region (Oregon) (not to be confused with the Blue Mountains in Pennsylvania and Australia)
- *	entry-level term Piedmont (Italy) – preferred term Italy (not the landform piedmont)
- *	entry-level term Tibetan Plateau – preferred term China 
-
-For articles discussing bodies of water, do not automatically add a descriptive place name(s) (e.g., state, country) in addition to the named body of water. Is the study area is in the water, on land next to the body of water or both? Determine if the place name is appropriate for the entire article or is merely describing where the body of water is. 
- *	California – Gulf of California (in Mexico)
- *	Chad – Lake Chad (in Cameroon, Chad, Niger and Nigeria)
- *	Ohio – Ohio River (runs through Pennsylvania, West Virginia, Ohio, Indiana, Illinois and Kentucky)
-
-It is not necessary to include the name of the landform if it is part of an already-annotated preferred term, is not a significant concept in the article or would not provide any additional information. 
- *	Black Hills National Forest
- *	Colorado Desert 
- *	Great Salt Lake
- *	Mississippi River
-
-Do not include geographic terms that appear in plant or animal names unless the geographic term also refers to where the plant or animal is. 
- *	“...We made our observation during daily landbird migration banding operations at a station within the Bon Secour National Wildlife Refuge on the Fort Morgan Peninsula of Alabama, USA...”{cite}`f`
- *	“Zeins, the major storage proteins in corn (Zea mays L.) endosperms, consist of a large number of related polypeptides...This study examines the variability of zeins in ‘Reid Yellow Dent’, ‘Lancaster Sure Crop’, and eight Illinois chemical strains...”{cite}`f`
- *	“...we investigate the influence of spatial structuring and social interactions on the gut microbiome composition of Welsh mountain ponies...the gut microbiome of semi-feral ponies from Snowdonia National Park is influenced by spatial structuring, social interactions, and kin relationships..."{cite}`f` 
-
-### Assignment of geographical descriptors - Summary
-1. Do not assign geographical descriptors based solely on those terms in the common or taxonomic names of strains of bacteria and other organisms. (e.g., Newcastle disease, Egypt bee virus).
-2. The geographical origin of a strain or line can be used even if the work is done in vitro (e.g., supporting epidemiological studies of disease outbreaks). 
-3. For articles in which subjects (animals, plants, humans) migrate/invade or are imported/introduced from one country/area and studied in another, apply a geographical descriptor for the country where the subjects were studied and indicate their geographical origin, if appropriate. This applies only to living subjects studied in a natural environment (e.g., not laboratory/captive animals or museum specimens).
-4. Do not assign geographical terms based solely on author affiliation or journal name.
-5. Do not add geographical descriptors for laboratory or greenhouse studies, unless done as comparison to field studies. 
-6. There is no limit to the number of geographical descriptors that may be used. However, in most cases where more than five or six are applicable, it may make more sense to use a broader geographical term that subsumes the others. 
-7. Do not use historical geographic locations for current research or discussion. 
-8. If more than four continents (e.g., Asia, Europe, Africa, South America, North America) are mentioned but no narrower concepts are discussed, omit them.
-9. Confirm the location of place names not in the NALT.
-
 ## References
-```{bibliography} /book/references/references4.bib
+```{bibliography} /book/references/references5.bib
 :filter: docname in docnames
 ```

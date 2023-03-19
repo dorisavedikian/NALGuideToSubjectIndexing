@@ -1,0 +1,760 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Geographic Descriptors</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+
+  
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=12da95d707ffb74b382d" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d" />
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'book/SubjectAnalysis/GeographicDescriptor';</script>
+    <link rel="canonical" href="https://dorisavedikian.github.io/NALGuideToSubjectIndexing/book/SubjectAnalysis/GeographicDescriptor.html" />
+    <link rel="shortcut icon" href="../../_static/fav.ico"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Supplement A: Types of articles not indexed for Agricola and how to report problematic articles" href="../Supplements/SupplementA.html" />
+    <link rel="prev" title="Basics for Using Taxonomic Names" href="Basics_Taxonomic.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="../../index.html">
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../../_static/logo.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="../../_static/logo.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">A Guide to Subject Indexing</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../TOC/BasicIndexingGuidelines.html">Basic Indexing Guidelines</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../TOC/AgricolaDB.html">The Agricola Database</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../TOC/MARC.html">MARC Format</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../TOC/NAL.html">The NAL Thesaurus (NALT)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../TOC/Workflow.html">Work Flow</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../TOC/Resources.html">Resources</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Subject Analysis</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Methodology.html">Methodology and Techniques</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="Basics_Taxonomic.html">Basics for Using Taxonomic Names</a></li>
+
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Geographic Descriptors</a></li>
+
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Guide Supplements</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Supplements/SupplementA.html">Supplement A: Types of articles not indexed for Agricola and how to report problematic articles</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Supplements/SupplementB.html">Supplement B: Additional resources for indexers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Supplements/SupplementC.html">Supplement C: Preferred Assignment of Names for Organisms and Products - Summary</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Supplements/SupplementD.html">Supplement D: Similar NALT terms in different hierarchies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Supplements/SupplementE.html">Supplement E: Ambiguous concepts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Supplements/SupplementF.html">Supplement F: Checklist of Common Indexing Errors</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-launch-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Launch interactive content">
+    <i class="fas fa-rocket"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://mybinder.org/v2/gh/dorisavedikian/NALGuideToSubjectIndexing/master?urlpath=tree/book/SubjectAnalysis/GeographicDescriptor.md" target="_blank"
+   class="btn btn-sm dropdown-item"
+   title="Launch onBinder"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  
+    <img src="../../_static/images/logo_binder.svg">
+  </span>
+<span class="btn__text-container">Binder</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://colab.research.google.com/github/dorisavedikian/NALGuideToSubjectIndexing/blob/master/book/SubjectAnalysis/GeographicDescriptor.md" target="_blank"
+   class="btn btn-sm dropdown-item"
+   title="Launch onColab"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  
+    <img src="../../_static/images/logo_colab.png">
+  </span>
+<span class="btn__text-container">Colab</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/dorisavedikian/NALGuideToSubjectIndexing" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/dorisavedikian/NALGuideToSubjectIndexing/edit/main/book/SubjectAnalysis/GeographicDescriptor.md" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/dorisavedikian/NALGuideToSubjectIndexing/issues/new?title=Issue%20on%20page%20%2Fbook/SubjectAnalysis/GeographicDescriptor.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../../_sources/book/SubjectAnalysis/GeographicDescriptor.ipynb" target="_blank"
+   class="btn btn-sm btn-download-notebook-button dropdown-item"
+   title="Download notebook file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-code"></i>
+  </span>
+<span class="btn__text-container">.ipynb</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="../../_sources/book/SubjectAnalysis/GeographicDescriptor.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Geographic Descriptors</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Geographic Descriptors</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#assignment-of-geographical-descriptors-summary">Assignment of geographical descriptors - Summary</a></li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#references">References</a></li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section id="geographic-descriptors">
+<h1>Geographic Descriptors<a class="headerlink" href="#geographic-descriptors" title="Permalink to this heading">#</a></h1>
+<p>Include geographical terms under these circumstances:</p>
+<ul class="simple">
+<li><p>there is a specific geographic location in the title</p></li>
+<li><p>the article contains maps of specific geographic area(s)</p></li>
+<li><p>a specific area has been surveyed</p></li>
+<li><p>field research has been or is being done</p></li>
+<li><p>flora or fauna of a region has been or is being studied</p></li>
+<li><p>new taxa or other taxonomic information (e.g., ecological invasion, geographical distribution) are described</p></li>
+<li><p>specific organizations or institutions are the primary topic <span id="id1">[<a class="reference internal" href="#id15" title="Naoto Sawada. Revisiting the annandale malacological collection from inle lake, myanmar kept in the kyoto university museum. Molluscan Research, 42(3):212-220, 2022. URL: https://doi.org/10.1080/13235818.2022.2097043, arXiv:https://doi.org/10.1080/13235818.2022.2097043, doi:10.1080/13235818.2022.2097043.">Sawada, 2022</a>]</span></p></li>
+</ul>
+<p>Consider including geographical topics for articles with these subjects:</p>
+<ul class="simple">
+<li><p>ecology, including pollution</p></li>
+<li><p>economics</p></li>
+<li><p>education/training</p></li>
+<li><p>epidemiology</p></li>
+<li><p>history/paleontology/archaeology</p></li>
+<li><p>human ecology</p></li>
+<li><p>land and/or water resources</p></li>
+<li><p>legislation, jurisprudence or politics</p></li>
+<li><p>meteorology/climatology</p></li>
+<li><p>sociology</p></li>
+</ul>
+<p>Geographical terms should be added for living subjects studied in the natural environment or specimens collected in one country and studied or held in another.</p>
+<ul class="simple">
+<li><p>A study about food habits of Salvadorans living in Manhattan would be assigned <strong>New York</strong> and <strong>Hispanics</strong><a class="footnote-reference brackets" href="#id25" id="id2" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a> as descriptors.</p></li>
+<li><p>An article about insects collected in Ghana but studied at an ARS laboratory in Maryland would be assigned <strong>Ghana</strong> (but not <strong>Maryland</strong>).</p></li>
+<li><p>An article about captive lions in an American zoo would not be assigned a geographic term. The zoo’s location may be included if it is relevant to the entire article.</p></li>
+</ul>
+<p>Some countries, states and regions have narrower or related concepts. It may be necessary to research which term is the correct one(s) to annotate.</p>
+<ul class="simple">
+<li><p>“In 2019, leaves with anthracnose symptoms were observed on pitcher plants (Sarracenia purpurea subsp. purpurea f. heterophylla) in Okinawa Prefecture, Japan…”<span id="id3">[<a class="reference internal" href="#id16" title="Taba et. al. First report of anthracnose caused by colletotrichum cigarro in pitcher plant in japan. Journal of General Plant Pathology, 88:270-274, 2022. URL: https://doi.org/10.1007/s10327-022-01066-5, doi:10.1007/s10327-022-01066-5.">et. al., 2022</a>]</span> <strong>Okinawa</strong> is an entry-level term for <strong>Ryukyu Archipelago</strong>, an NT of <strong>Japan</strong>.</p></li>
+<li><p>“…we develop a novel semi‐quantitative metabarcoding approach that combines specimen counts and size‐sorting to characterize arthropod community‐level diversity patterns along elevational transects on two different volcanoes of the island of Hawai‘i…”<span id="id4">[<a class="reference internal" href="#id17" title="Jun Ying Lim, Jairo Patiño, Suzuki Noriyuki, Luis Cayetano, Rosemary G. Gillespie, and Henrik Krehenwinkel. Semi-quantitative metabarcoding reveals how climate shapes arthropod community assembly along elevation gradients on hawaii island. Molecular Ecology, 31(5):1416-1429, 2022. URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16323, arXiv:https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.16323, doi:https://doi.org/10.1111/mec.16323.">Lim <em>et al.</em>, 2022</a>]</span>. The study is being done specifically on <strong>Hawaii (island)</strong>, not across multiple islands of <strong>Hawaii</strong>.</p></li>
+<li><p>“Losses of C and N from the forest floor and top 20-cm of soil were estimated following separate severe wildfires at two Long-Term Soil Productivity sites in the Sierra Nevada of California, USA. Experimental treatments applied 20 years prior to the wildfires…”<span id="id5">[<a class="reference internal" href="#id18" title="Jianwei Zhang, Matt Busse, Silong Wang, Dave Young, and Kim Mattson. Wildfire loss of forest soil c and n: do pre-fire treatments make a difference? Science of The Total Environment, 854:158742, jan 2023. URL: https://doi.org/10.1016%2Fj.scitotenv.2022.158742, doi:10.1016/j.scitotenv.2022.158742.">Zhang <em>et al.</em>, 2023</a>]</span>v Since they are related (not BT-NT), both <strong>California</strong> and <strong>Sierra Nevada (California)</strong> can be annotated. See discussion below on <strong>Named Geographical Regions.</strong></p></li>
+</ul>
+<p>Do not assume that a cardinal direction is part of an official state, territory or country name and not just indicating a part of the state, territory or country. If the study area is not clear in the abstract, check the full text for any maps or descriptions.</p>
+<ul class="simple">
+<li><p>“…we present and examine a relatively dense network of wood property chronologies…from several species in <strong>Tasmania</strong>, southern Australia…”<span id="id6">[<a class="reference internal" href="#id19" title="K.J. Allen, S.C. Nichols, R. Evans, and P.J. Baker. Characteristics of a multi-species conifer network of wood properties chronologies from southern australia. Dendrochronologia, 76:125997, 2022. URL: https://www.sciencedirect.com/science/article/pii/S1125786522000777, doi:https://doi.org/10.1016/j.dendro.2022.125997.">Allen <em>et al.</em>, 2022</a>]</span></p></li>
+<li><p>“… Our study area consisted of 26 sites in western Virginia within the Blue Ridge, Ridge and Valley, and Appalachian Plateau physiographic provinces, extending from Highland County in the north to Lee County in the southwest…”<span id="id7">[<a class="reference internal" href="#id20" title="Richard J. Reynolds, Karen E. Powers, Wil Orndorff, W. Mark Ford, and Christopher S. Hobson. Changes in Rates of Capture and Demographics of Myotisseptentrionalis (Northern Long-eared Bat) in Western Virginia before and after Onset of White-nose Syndrome. Northeastern Naturalist, 23(2):195 – 204, 2016. URL: https://doi.org/10.1656/045.023.0201, doi:10.1656/045.023.0201.">Reynolds <em>et al.</em>, 2016</a>]</span> Maps in the full text articles confirm the study area is in the southwestern corner of <strong>Virginia</strong>.</p></li>
+<li><p>“…The South African soil data, together with the SOTER data of Angola, Botswana, eSwatini (previously Swaziland), Namibia, Mozambique, Tanzania, and Zimbabwe formed the SOTERSAF database…”<span id="id8">[<a class="reference internal" href="#id21" title="Douw Bodenstein, Catherine Clarke, Andrew Watson, Jodie Miller, Stephan van der Westhuizen, and Andrei Rozanov. Evaluation of global and continental scale soil maps for southern africa using selected soil properties. CATENA, 216:106381, 2022. URL: https://www.sciencedirect.com/science/article/pii/S0341816222003678, doi:https://doi.org/10.1016/j.catena.2022.106381.">Bodenstein <em>et al.</em>, 2022</a>]</span> A map showing the study area confirms it covers Angola, Botswana, eSwatini, Namibia, Mozambique, South Africa, Tanzania, and Zimbabwe so <strong>Southern Africa</strong> would be annotated.</p></li>
+</ul>
+<p>If they are specifically mentioned in the article, <strong>Named Geographical Regions</strong> may be annotated alongside country/state names, particularly those comprising a large area covering several countries, states or bodies of water; denoting a particular area of a country or continent; and/or representing an environment different (e.g., climatically, geomorphologically, culturally) from other parts of that country or state.</p>
+<ul class="simple">
+<li><p><strong>Amazonia</strong></p></li>
+<li><p><strong>El Gran Chaco</strong></p></li>
+<li><p><strong>Himalayan region</strong></p></li>
+<li><p><strong>Maghreb</strong></p></li>
+<li><p><strong>Pacific Rim</strong></p></li>
+</ul>
+<p>Confirm the correct location of all geographic names, especially those not in NALT, since some names are used in more than one country or location.</p>
+<ul class="simple">
+<li><p>Iran Mountains – mountain range on <strong>Borneo</strong></p></li>
+<li><p>Mérida – city in both <strong>Spain</strong> and <strong>Mexico</strong></p></li>
+<li><p>Plymouth – city and/or county in several US states (e.g., <strong>Massachusetts, Michigan</strong> and <strong>Connecticut</strong>), <strong>England</strong> and <strong>Montserrat</strong></p></li>
+<li><p>Washington – <strong>Washington (state), Washington DC</strong> (preferred term <strong>District of Columbia</strong>), city and/or county in several US States (e.g., <strong>Georgia, Illinois</strong> and <strong>Pennsylvania</strong>),</p></li>
+</ul>
+<p>Locations not included in NALT may not be easily found through standard USDA resources. It may be necessary to research where the place is and what it represents.</p>
+<ul class="simple">
+<li><p>South China Karst (UNESCO World Heritage Site in <strong>China</strong>)<a class="footnote-reference brackets" href="#id26" id="id9" role="doc-noteref"><span class="fn-bracket">[</span>2<span class="fn-bracket">]</span></a></p></li>
+<li><p>Transnistria (unrecognized breakaway state internationally considered part of <strong>Moldova</strong>)<a class="footnote-reference brackets" href="#id27" id="id10" role="doc-noteref"><span class="fn-bracket">[</span>3<span class="fn-bracket">]</span></a></p></li>
+</ul>
+<p>Do not use historical geographic locations for current publications.</p>
+<ul class="simple">
+<li><p><strong>Czechoslovakia</strong> (existed 1918-1992) -&gt; use <strong>Czech Republic</strong> and/or <strong>Slovakia</strong></p></li>
+<li><p><strong>Yugoslavia</strong> (existed 1918-1992) -&gt; use <strong>Bosnia-Herzegovina, Croatia, Slovenia, Republic</strong> of <strong>North Macedonia</strong> and/or <strong>Serbia</strong> and <strong>Montenegro</strong>. NOTE: <strong>Kosovo</strong> is a breakaway state of Serbia (split off in 2008) that is recognized by US and some other counties but has only <strong>Europe</strong> as its BT.</p></li>
+</ul>
+<p>Geographic place names may include landforms as part of the name. Consult NALT for the appropriate term to annotate. Do not include the landform as a separate term, unless it is relevant to the entire article’s subject. Note whether the landform starts with an upper or lower case letter and is a singular or plural form.</p>
+<ul class="simple">
+<li><p>entry-level term <strong>Blue Mountains</strong> – preferred term <strong>Blue Mountain Region</strong> (Oregon) (not to be confused with the Blue Mountains in <strong>Pennsylvania</strong> and <strong>Australia</strong>)</p></li>
+<li><p>entry-level term <strong>Piedmont (Italy)</strong> – preferred term <strong>Italy</strong> (not the landform <strong>piedmont</strong>)</p></li>
+<li><p>entry-level term <strong>Tibetan Plateau</strong> – preferred term <strong>China</strong></p></li>
+</ul>
+<p>For articles discussing bodies of water, do not automatically add a descriptive place name(s) (e.g., state, country) in addition to the named body of water. Is the study area is in the water, on land next to the body of water or both? Determine if the place name is appropriate for the entire article or is merely describing where the body of water is.</p>
+<ul class="simple">
+<li><p><strong>California – Gulf of California</strong> (in <strong>Mexico</strong>)</p></li>
+<li><p><strong>Chad – Lake Chad</strong> (in <strong>Cameroon, Chad, Niger</strong> and <strong>Nigeria</strong>)</p></li>
+<li><p><strong>Ohio – Ohio River</strong> (runs through <strong>Pennsylvania, West Virginia, Ohio, Indiana, Illinois</strong> and <strong>Kentucky</strong>)</p></li>
+</ul>
+<p>It is not necessary to include the name of the landform if it is part of an already-annotated preferred term, is not a significant concept in the article or would not provide any additional information.</p>
+<ul class="simple">
+<li><p><strong>Black Hills National Forest</strong></p></li>
+<li><p><strong>Colorado Desert</strong></p></li>
+<li><p><strong>Great Salt Lake</strong></p></li>
+<li><p><strong>Mississippi River</strong></p></li>
+</ul>
+<p>Do not include geographic terms that appear in plant or animal names unless the geographic term also refers to where the plant or animal is.</p>
+<ul class="simple">
+<li><p>“…We made our observation during daily landbird migration banding operations at a station within the Bon Secour National Wildlife Refuge on the Fort Morgan Peninsula of Alabama, USA…”<span id="id11">[<a class="reference internal" href="#id22" title="Theodore J. Zenzal Jr, Liliana Calderón, Joshua Lefever, and Vincent Weber. A Tennessee Warbler (Leiothlypis peregrina) captured in the web of a golden silk orb-weaver (Trichonephila clavipes). The Wilson Journal of Ornithology, 132(2):456 – 459, 2021. URL: https://doi.org/10.1676/1559-4491-132.2.456, doi:10.1676/1559-4491-132.2.456.">Jr <em>et al.</em>, 2021</a>]</span></p></li>
+<li><p>“Zeins, the major storage proteins in corn (Zea mays L.) endosperms, consist of a large number of related polypeptides…This study examines the variability of zeins in ‘Reid Yellow Dent’, ‘Lancaster Sure Crop’, and eight Illinois chemical strains…”<span id="id12">[<a class="reference internal" href="#id23" title="C.M. Wilson. Zein diversity in reid, lancaster, and illinois chemical corn strains revealed by isoelectric focusing. Crop science (USA), 32:869-873, 1992. URL: https://pubag.nal.usda.gov/download/24526/PDF.">Wilson, 1992</a>]</span></p></li>
+<li><p>“…we investigate the influence of spatial structuring and social interactions on the gut microbiome composition of Welsh mountain ponies…the gut microbiome of semi-feral ponies from Snowdonia National Park is influenced by spatial structuring, social interactions, and kin relationships…”<span id="id13">[<a class="reference internal" href="#id24" title="Rachael Antwis, Jess Lea, Bryony Unwin, and Susanne Shultz. Gut microbiome composition is associated with spatial structuring and social interactions in semi-feral welsh mountain ponies. Microbiome, 6:, 11 2018. doi:10.1186/s40168-018-0593-2.">Antwis <em>et al.</em>, 2018</a>]</span></p></li>
+</ul>
+<section id="assignment-of-geographical-descriptors-summary">
+<h2>Assignment of geographical descriptors - Summary<a class="headerlink" href="#assignment-of-geographical-descriptors-summary" title="Permalink to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p>Do not assign geographical descriptors based solely on those terms in the common or taxonomic names of strains of bacteria and other organisms. (e.g., Newcastle disease, Egypt bee virus).</p></li>
+<li><p>The geographical origin of a strain or line can be used even if the work is done in vitro (e.g., supporting epidemiological studies of disease outbreaks).</p></li>
+<li><p>For articles in which subjects (animals, plants, humans) migrate/invade or are imported/introduced from one country/area and studied in another, apply a geographical descriptor for the country where the subjects were studied and indicate their geographical origin, if appropriate. This applies only to living subjects studied in a natural environment (e.g., not laboratory/captive animals or museum specimens).</p></li>
+<li><p>Do not assign geographical terms based solely on author affiliation or journal name.</p></li>
+<li><p>Do not add geographical descriptors for laboratory or greenhouse studies, unless done as comparison to field studies.</p></li>
+<li><p>There is no limit to the number of geographical descriptors that may be used. However, in most cases where more than five or six are applicable, it may make more sense to use a broader geographical term that subsumes the others.</p></li>
+<li><p>Do not use historical geographic locations for current research or discussion.</p></li>
+<li><p>If more than four continents (e.g., Asia, Europe, Africa, South America, North America) are mentioned but no narrower concepts are discussed, omit them.</p></li>
+<li><p>Confirm the location of place names not in the <em>NALT</em>.</p></li>
+</ol>
+</section>
+</section>
+<section id="references">
+<h1>References<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h1>
+<div class="docutils container" id="id14">
+<div class="citation" id="id19" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id6">ANEB22</a><span class="fn-bracket">]</span></span>
+<p>K.J. Allen, S.C. Nichols, R. Evans, and P.J. Baker. Characteristics of a multi-species conifer network of wood properties chronologies from southern australia. <em>Dendrochronologia</em>, 76:125997, 2022. URL: <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S1125786522000777">https://www.sciencedirect.com/science/article/pii/S1125786522000777</a>, <a class="reference external" href="https://doi.org/https://doi.org/10.1016/j.dendro.2022.125997">doi:https://doi.org/10.1016/j.dendro.2022.125997</a>.</p>
+</div>
+<div class="citation" id="id24" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id13">ALUS18</a><span class="fn-bracket">]</span></span>
+<p>Rachael Antwis, Jess Lea, Bryony Unwin, and Susanne Shultz. Gut microbiome composition is associated with spatial structuring and social interactions in semi-feral welsh mountain ponies. <em>Microbiome</em>, 6:, 11 2018. <a class="reference external" href="https://doi.org/10.1186/s40168-018-0593-2">doi:10.1186/s40168-018-0593-2</a>.</p>
+</div>
+<div class="citation" id="id21" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id8">BCW+22</a><span class="fn-bracket">]</span></span>
+<p>Douw Bodenstein, Catherine Clarke, Andrew Watson, Jodie Miller, Stephan van der Westhuizen, and Andrei Rozanov. Evaluation of global and continental scale soil maps for southern africa using selected soil properties. <em>CATENA</em>, 216:106381, 2022. URL: <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0341816222003678">https://www.sciencedirect.com/science/article/pii/S0341816222003678</a>, <a class="reference external" href="https://doi.org/https://doi.org/10.1016/j.catena.2022.106381">doi:https://doi.org/10.1016/j.catena.2022.106381</a>.</p>
+</div>
+<div class="citation" id="id16" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id3">etal22</a><span class="fn-bracket">]</span></span>
+<p>Taba et. al. First report of anthracnose caused by colletotrichum cigarro in pitcher plant in japan. <em>Journal of General Plant Pathology</em>, 88:270–274, 2022. URL: <a class="reference external" href="https://doi.org/10.1007/s10327-022-01066-5">https://doi.org/10.1007/s10327-022-01066-5</a>, <a class="reference external" href="https://doi.org/10.1007/s10327-022-01066-5">doi:10.1007/s10327-022-01066-5</a>.</p>
+</div>
+<div class="citation" id="id22" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id11">JCalderonLW21</a><span class="fn-bracket">]</span></span>
+<p>Theodore J. Zenzal Jr, Liliana Calderón, Joshua Lefever, and Vincent Weber. A Tennessee Warbler (Leiothlypis peregrina) captured in the web of a golden silk orb-weaver (Trichonephila clavipes). <em>The Wilson Journal of Ornithology</em>, 132(2):456 – 459, 2021. URL: <a class="reference external" href="https://doi.org/10.1676/1559-4491-132.2.456">https://doi.org/10.1676/1559-4491-132.2.456</a>, <a class="reference external" href="https://doi.org/10.1676/1559-4491-132.2.456">doi:10.1676/1559-4491-132.2.456</a>.</p>
+</div>
+<div class="citation" id="id17" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id4">LPN+22</a><span class="fn-bracket">]</span></span>
+<p>Jun Ying Lim, Jairo Patiño, Suzuki Noriyuki, Luis Cayetano, Rosemary G. Gillespie, and Henrik Krehenwinkel. Semi-quantitative metabarcoding reveals how climate shapes arthropod community assembly along elevation gradients on hawaii island. <em>Molecular Ecology</em>, 31(5):1416–1429, 2022. URL: <a class="reference external" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16323">https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16323</a>, <a class="reference external" href="https://arxiv.org/abs/https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.16323">arXiv:https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.16323</a>, <a class="reference external" href="https://doi.org/https://doi.org/10.1111/mec.16323">doi:https://doi.org/10.1111/mec.16323</a>.</p>
+</div>
+<div class="citation" id="id20" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id7">RPO+16</a><span class="fn-bracket">]</span></span>
+<p>Richard J. Reynolds, Karen E. Powers, Wil Orndorff, W. Mark Ford, and Christopher S. Hobson. Changes in Rates of Capture and Demographics of Myotisseptentrionalis (Northern Long-eared Bat) in Western Virginia before and after Onset of White-nose Syndrome. <em>Northeastern Naturalist</em>, 23(2):195 – 204, 2016. URL: <a class="reference external" href="https://doi.org/10.1656/045.023.0201">https://doi.org/10.1656/045.023.0201</a>, <a class="reference external" href="https://doi.org/10.1656/045.023.0201">doi:10.1656/045.023.0201</a>.</p>
+</div>
+<div class="citation" id="id15" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">Saw22</a><span class="fn-bracket">]</span></span>
+<p>Naoto Sawada. Revisiting the annandale malacological collection from inle lake, myanmar kept in the kyoto university museum. <em>Molluscan Research</em>, 42(3):212–220, 2022. URL: <a class="reference external" href="https://doi.org/10.1080/13235818.2022.2097043">https://doi.org/10.1080/13235818.2022.2097043</a>, <a class="reference external" href="https://arxiv.org/abs/https://doi.org/10.1080/13235818.2022.2097043">arXiv:https://doi.org/10.1080/13235818.2022.2097043</a>, <a class="reference external" href="https://doi.org/10.1080/13235818.2022.2097043">doi:10.1080/13235818.2022.2097043</a>.</p>
+</div>
+<div class="citation" id="id23" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id12">Wil92</a><span class="fn-bracket">]</span></span>
+<p>C.M. Wilson. Zein diversity in reid, lancaster, and illinois chemical corn strains revealed by isoelectric focusing. <em>Crop science (USA)</em>, 32:869–873, 1992. URL: <a class="reference external" href="https://pubag.nal.usda.gov/download/24526/PDF">https://pubag.nal.usda.gov/download/24526/PDF</a>.</p>
+</div>
+<div class="citation" id="id18" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id5">ZBW+23</a><span class="fn-bracket">]</span></span>
+<p>Jianwei Zhang, Matt Busse, Silong Wang, Dave Young, and Kim Mattson. Wildfire loss of forest soil c and n: do pre-fire treatments make a difference? <em>Science of The Total Environment</em>, 854:158742, jan 2023. URL: <a class="reference external" href="https://doi.org/10.1016%2Fj.scitotenv.2022.158742">https://doi.org/10.1016%2Fj.scitotenv.2022.158742</a>, <a class="reference external" href="https://doi.org/10.1016/j.scitotenv.2022.158742">doi:10.1016/j.scitotenv.2022.158742</a>.</p>
+</div>
+</div>
+</div>
+<hr class="footnotes docutils" />
+<aside class="footnote brackets" id="id25" role="note">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id2">1</a><span class="fn-bracket">]</span></span>
+<p>Or Latinos (people who are or descended from immigrants from Latin America (Caribbeans islands, Central and South America but not USA and Canada), including non-Hispanics, e.g., Haitians, Brazilians, Guyanese) NOTE – definition from ERIC thesaurus. Hispanic refers to people who speak Spanish or are descended from Spanish-speaking populations (includes Spain) and is generally self-reported. Definition has changed multiple times since 1970’s, primarily related to Census questionnaire.</p>
+</aside>
+<aside class="footnote brackets" id="id26" role="note">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id9">2</a><span class="fn-bracket">]</span></span>
+<p>See <a class="reference external" href="https://whc.unesco.org/en/list/1248/">https://whc.unesco.org/en/list/1248/</a></p>
+</aside>
+<aside class="footnote brackets" id="id27" role="note">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id10">3</a><span class="fn-bracket">]</span></span>
+<p>See <a class="reference external" href="https://en.wikipedia.org/wiki/Transnistria">https://en.wikipedia.org/wiki/Transnistria</a></p>
+</aside>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./book/SubjectAnalysis"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+                <footer class="bd-footer-article">
+                  <!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="Basics_Taxonomic.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Basics for Using Taxonomic Names</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="../Supplements/SupplementA.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Supplement A: Types of articles not indexed for Agricola and how to report problematic articles</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Geographic Descriptors</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#assignment-of-geographical-descriptors-summary">Assignment of geographical descriptors - Summary</a></li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#references">References</a></li>
+</ul>
+
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            <div class="bd-footer-content__inner">
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Doris Avedikian
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div></div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/bootstrap.js?digest=12da95d707ffb74b382d"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=12da95d707ffb74b382d"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
