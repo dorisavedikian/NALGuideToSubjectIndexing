@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-## Methodology and Techniques
+# Methodology and Techniques
 
 Things to consider: 
 *	What is the method/technique (“method”) being discussed?
