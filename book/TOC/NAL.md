@@ -16,23 +16,7 @@ When considering proposal of a new term, always ask:
 
 *	If the proposed term is already included in another thesaurus, suggest the term as it appears in that thesaurus to maintain consistency. If the term is in several thesauri in different forms (e.g., hyphenation, capitalization), recommend the one that follows NALT naming convention (see below) with other forms included as entry-level terms.
 
-```{margin} __Examples of capitalization:__
-* USDA Forest Service 
-* Mississippi Delta region 
-* Internet of Things
-* Daboia russelii
-* DDT (pesticide)
-* COVID-19 infection
-```
-```{margin} __Examples of lower case:__
-* forests
-* river deltas
-* information technology
-* reptiles
-* organochlorine pesticides
-* infectious diseases
-```
-*	Follow conventions of capitalization used in NALT, i.e., capitalize formal names, geographical terms and acronyms, use lower case for non-specific places or things, etc.
+*	Follow conventions of capitalization[^3] used in NALT, i.e., capitalize formal names, geographical terms and acronyms, use lower case[^4] for non-specific places or things, etc.
 
 *	Consider spelling variants, synonyms, and quasi-synonyms before proposing a new term.
     *	__Example:__ For “Nutrient solution concentration and collection time in phytomass production, content, yield and chemical composition of essential oil of rosemary”{cite}`JoPN_2018`, NALT does not have a term to cover specifically “essential oil of rosemary”.  
@@ -61,13 +45,7 @@ When considering proposal of a new term, always ask:
     *	__climate change__, not __changing climate__ 
     *	__food processing__, not __processing food__ or __processing of food__
 
-```{margin} __Examples of hyphenated terms:__
-* 1-aminocyclopropane-1-carboxylate deaminase
-* 3’ untranslated region
-* blood-brain barrier
-* public-private partnerships
-```
-*	Avoid punctuation, including hyphens, if possible. Some exceptions include (but are not exclusively) taxonomic names, chemical compounds, scientific terms and accepted terms from other thesauri. 
+*	Avoid punctuation, including hyphens[^5], if possible. Some exceptions include (but are not exclusively) taxonomic names, chemical compounds, scientific terms and accepted terms from other thesauri. 
 
 *	Use scientific terminology rather than lay/colloquial terminology. 
     *	__neoplasms__, not cancer
@@ -106,6 +84,13 @@ Requests will be reviewed by the indexing team for validity and necessity during
 [^1]:(subscheme with 13,791 frequently-used concepts including 4,396 agriculturally important organisms (taxa), and structural updates)
 
 [^2]: *NALT Core* plus 48,000+ additional agricultural related organisms and several thousand less-frequently used concepts for a total of 76,933 concepts)
+
+[^3]: Examples of capitalization: USDA Forest Service, Mississippi Delta region, Internet of Things, Daboia russelii, DDT (pesticide) & COVID-19 infection
+
+[^4]: Examples of lower case: forests, river deltas, information technology, reptiles, organochlorine pesticides & infectious diseases
+
+[^5]: Examples of hyphenated terms: 1-aminocyclopropane-1-carboxylate deaminase, 3’ untranslated region, blood-brain barrier & public-private partnerships
+
 
 ```{bibliography} /book/references/references3.bib
 :filter: docname in docnames
