@@ -12,13 +12,10 @@ parts:
         sections:
           - title: Overview
             file: book/TOC/BasicIndexingGuidelines
-        sections:
-          - title: MARC Format
+          - title: The AGRICOLA Database
             file: book/TOC/AgricolaDB
-        sections:
           - title: MARC Format
             file: book/TOC/MARC
-        sections:
           - title: The NAL Thesaurus (NAL)
             file: book/TOC/NAL/NAL               
             sections:
@@ -35,10 +32,8 @@ parts:
                 file: book/SubjectAnalysis/Basics_Taxonomic
               - title: Geographic Descriptors
                 file: book/SubjectAnalysis/GeographicDescriptor
-        sections:
           - title: Work Flow
             file: book/TOC/Workflow   
-        sections:
           - title: Resources
             file: book/Resources     
       # ===== Guide Supplements ========================================  
@@ -51,7 +46,6 @@ parts:
                 file: book/Supplements/SupplementA2
               - title: Probematic Articles and their solutions
                 file: book/Supplements/SuppA3
-        sections:
           - title: Supplement B
             file: book/Supplements/SupplementB
             sections:
@@ -63,16 +57,13 @@ parts:
                 file: book/Supplements/SuppB4
               - title: Thesaurus, glossaries and terminology
                 file: book/Supplements/SuppB5                     
-        sections:
           - title: Supplement C - Preferred Assignment of Names for Organisms & Products
             file: book/Supplements/SupplementC
-        sections:
           - title: Supplement D - Similar NALT terms in different hierarchies
             file: book/Supplements/SupplementD
-        sections:
           - title: Supplement E - Ambiguous Concepts
             file: book/Supplements/SupplementE               
-        sections:
           - title: Supplement F - Checklist of Common Indexing Errors
             file: book/Supplements/SupplementF
+# ===== Bibliography =====================================================         
       - file: book/references/bibliography

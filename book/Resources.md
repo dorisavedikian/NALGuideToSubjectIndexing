@@ -1,7 +1,7 @@
 
 # Resources
 
-## Indexing Guidelines - Resource links in Teams
+__Links to shared folders in Microsoft Teams__
 * [2004 Agricola Guide to Subject Indexing 2nd draft](https://usdagcc.sharepoint.com/:w:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EXWCqj1BuR5MhiRUVoeJ3hgBc6s1ebL4VZ9_y861v9vrfg?e=ykoXlr)
 
 * [Change to Automatic Indexing_Subject Analysis Quality & Development of Draft Guidelines](https://usdagcc.sharepoint.com/:w:/s/ars-nal-dpd-DPD-IIB-GuidelinesandReferences/EW0Iu6pGz-xJkEVhjvrv2d0BTMnwSn3owkH7NRNgMgqSmQ?e=TETtrr)
@@ -28,7 +28,7 @@
 
 * [Language Is The Next Great Frontier In AI, Forbes, February/March 2022.](https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/?sh=713f820a5c50)
 
-## Articles 
+__Articles__
 * Assessment of Food and Nutrition Related Descriptors in Agricultural and Biomedical Thesauri. {cite:p}`Bartol_09`
 
 * Indexing Practices at the National Agricultural Library, Cataloging & Classification Quarterly, {cite}`NALIndex`
