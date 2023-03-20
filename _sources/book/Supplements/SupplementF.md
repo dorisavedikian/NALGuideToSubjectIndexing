@@ -1,4 +1,4 @@
-__Supplement F: Checklist of Common Indexing Errors__
+# Supplement F: Checklist of Common Indexing Errors
 
 It may be helpful to use this checklist to evaluate your own indexing. 
 

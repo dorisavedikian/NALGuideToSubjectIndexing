@@ -1,4 +1,4 @@
-__Proposing a new term:__
+# Proposing a new term:
 
 *	Consult relevant, authoritative resources (e.g., AGROVOC, CAB thesaurus) first when proposing a new term. Consider other specialized resources in (e.g., MESH, AlgaeBase), dictionaries, handbooks, monographs, textbooks and number of postings of the proposed concept in relevant databases. Do not use all-purpose dictionaries. See [Supplement B](SupplementB) for some additional resources.
 
