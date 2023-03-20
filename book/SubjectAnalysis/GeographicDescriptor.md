@@ -1,5 +1,6 @@
 
 # Geographic Descriptors
+
 Include geographical terms under these circumstances:
 *	there is a specific geographic location in the title
 *	the article contains maps of specific geographic area(s)
