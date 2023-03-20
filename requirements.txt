@@ -3,3 +3,9 @@ jupytext
 matplotlib
 numpy
 ghp-import
+pandas
+numpy
+matplotlib
+datascience
+folium
+jupyter-book
