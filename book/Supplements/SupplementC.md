@@ -1,6 +1,6 @@
 
 (SuppC)=
-# Supplement C: Preferred Assignment of Names for Organisms and Products - Summary
+__Supplement C: Preferred Assignment of Names for Organisms & Products__
 
 ```{list-table} 
 :header-rows: 1

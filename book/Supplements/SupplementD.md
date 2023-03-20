@@ -1,11 +1,12 @@
 
-# Supplement D: Similar NALT terms in different hierarchies
+__Supplement D: Similar NALT terms in different hierarchies__
 
 Similar or seemingly-the-same words or phrases can have very different meanings and hierarchies. Review definitions, BTs, NTs, RTs, definitions, scope notes and entry-level terms. If needed, check the full-text article to ensure that you are selecting the appropriate concept(s). 
-+++
+
 Some examples are listed below:
 
 ```{div} full-width
+
 a.	[absorption](https://lod.nal.usda.gov/nalt/1836) versus [adsorption](https://lod.nal.usda.gov/nalt/4377) 
 
 b.	[agricultural land](https://lod.nal.usda.gov/nalt/5367) versus [agricultural landscapes](https://lod.nal.usda.gov/nalt/209493)
@@ -113,4 +114,5 @@ zz.	Stella (not a NALT term, is a sweet cherry varietal name) versus [Stella](ht
 aaa.	[Togo (Africa)](https://lod.nal.usda.gov/nalt/66108) versus [Togo (Heteroptera)](https://lod.nal.usda.gov/nalt/61488)
 
 bbb.	[Turkey (country)](https://lod.nal.usda.gov/nalt/15650), (new accepted name Türkiye)  versus [turkeys](https://lod.nal.usda.gov/nalt/51987)
+
 ```

@@ -24,14 +24,14 @@ parts:
               - title: Creating hierarchy and relationships
                 file: book/TOC/NAL/NAL3
           - title: Subject Analysis
-            file: book/SubjectAnalysis/SA
+            file: book/TOC/SubjectAnalysis/SA
             sections:
               - title: Methodology and Techniques
-                file: book/SubjectAnalysis/Methodology
+                file: book/TOC/SubjectAnalysis/Methodology
               - title: Basics for Using Taxonomic Names
-                file: book/SubjectAnalysis/Basics_Taxonomic
+                file: book/TOC/SubjectAnalysis/Basics_Taxonomic
               - title: Geographic Descriptors
-                file: book/SubjectAnalysis/GeographicDescriptor
+                file: book/TOC/SubjectAnalysis/GeographicDescriptor
           - title: Work Flow
             file: book/TOC/Workflow   
           - title: Resources

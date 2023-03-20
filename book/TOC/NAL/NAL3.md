@@ -1,4 +1,5 @@
-# Creating hierarchy and relationships:
+__Creating hierarchy and relationships:__
+
 *	Supply at least one BT (preferably an existing NALT term) for each proposed term. The relationship between a proposed term and its BT should be generic (i.e., the BT is a class of concepts of which the proposed term is a member or is a part/whole relationship). If the proposed term is already in another thesaurus, use that hierarchy if the same or similar terms are already in NALT.
     *	proposed term __rosemary oil__ – BT __essential oils__ (or other appropriate NALT term)
     *	proposed term __brain-gut axis__ – BT __neurophysiology__ (or other appropriate NALT term)

@@ -1,5 +1,4 @@
-
-# Supplement F: Checklist of Common Indexing Errors
+__Supplement F: Checklist of Common Indexing Errors__
 
 It may be helpful to use this checklist to evaluate your own indexing. 
 
@@ -35,7 +34,7 @@ It may be helpful to use this checklist to evaluate your own indexing.
 
     2.	Work not conducted as part of the research described in the full-text article.
         *	Annotating **oils** in “...Three marine ecological examples using ANOSIM to analyse an ordered factor in one‐way designs are provided. These are: (1) changes in macrofaunal composition with increasing distance from an oil rig; (2) differences in phytal meiofaunal community composition..."{cite}`Somerfield`
-        +++
+       
         *	Annotating **metallurgy** in 
 
 
