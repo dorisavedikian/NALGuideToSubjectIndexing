@@ -3,8 +3,6 @@
 # Supplement A: Types of articles not indexed for Agricola and how to report problematic articles
 Annotate article individually as usual, but will be deleted during Golden Sets review
 
-````{div} full-width
-
 ```{important} 
 Articles less than one page long are generally not indexed (except for those on insect/plant taxonomy and nomenclature and new cultivar/germplasm registrations). Most of these items _will be indexed_ if written by or about USDA personnel.
 ```
@@ -58,8 +56,6 @@ If you encounter a problem article in a project, research the issue (e.g., missi
 ```
 
 Depending on the issue, check the original article for the same error; if the original article has the same problem, we do not correct many of those errors (e.g., misspellings, mashed words).  If not, search the journal title in that project for other articles from that journal that may have the same problem. Once you have confirmed all of the affected articles with the same journal name and problem in that project, then send the information (e.g., screenshots, list of AGID’s, PDF of full-text article, COGX file) to the IIB Lead.
-
-````
 
 ## Problem: No Abstract, Title only
 ```{margin}
