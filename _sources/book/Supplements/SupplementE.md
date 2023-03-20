@@ -1,5 +1,5 @@
 
-# Supplement E: Ambiguous concepts
+__Supplement E: Ambiguous concepts__
 
 Understand what you are annotating – do not automatically assume what an acronym, word or phrase means in the article. Terms that look like they should be in a particular hierarchy or related to certain terms may represent completely different concepts. If uncertain, check the original article (if full-text is available). And match with *NALT* preferred or entry-level terms and definitions. 
 

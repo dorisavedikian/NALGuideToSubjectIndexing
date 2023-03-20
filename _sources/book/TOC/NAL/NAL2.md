@@ -1,11 +1,12 @@
-# Proposing a new term:
+__Proposing a new term:__
+
 *	Consult relevant, authoritative resources (e.g., AGROVOC, CAB thesaurus) first when proposing a new term. Consider other specialized resources in (e.g., MESH, AlgaeBase), dictionaries, handbooks, monographs, textbooks and number of postings of the proposed concept in relevant databases. Do not use all-purpose dictionaries. See [Supplement B](SupplementB) for some additional resources.
 
 *	Changes include adding or deprecating (removing from preferred/accepted terminology) concepts, modifying hierarchies and adding/amending definitions or scope notes. Justification and additional comments should be neutral and business-like. Recommend term during Golden Sets review (see [Work-Flow](Workflow) )
 
 *	If the proposed term is already included in another thesaurus, suggest the term as it appears in that thesaurus to maintain consistency. If the term is in several thesauri in different forms (e.g., hyphenation, capitalization), recommend the one that follows NALT naming convention (see below) with other forms included as entry-level terms.
 
-*	Follow conventions of capitalization[^3] used in NALT, i.e., capitalize formal names, geographical terms and acronyms, use lower case[^4] for non-specific places or things, etc.
+*	Follow conventions of capitalization[^1] used in NALT, i.e., capitalize formal names, geographical terms and acronyms, use lower case[^2] for non-specific places or things, etc.
 
 *	Consider spelling variants, synonyms, and quasi-synonyms before proposing a new term.
     *	__Example:__ For “Nutrient solution concentration and collection time in phytomass production, content, yield and chemical composition of essential oil of rosemary”{cite}`JoPN_2018`, NALT does not have a term to cover specifically “essential oil of rosemary”.  
@@ -34,7 +35,7 @@
     *	__climate change__, not __changing climate__ 
     *	__food processing__, not __processing food__ or __processing of food__
 
-*	Avoid punctuation, including hyphens[^5], if possible. Some exceptions include (but are not exclusively) taxonomic names, chemical compounds, scientific terms and accepted terms from other thesauri. 
+*	Avoid punctuation, including hyphens[^3], if possible. Some exceptions include (but are not exclusively) taxonomic names, chemical compounds, scientific terms and accepted terms from other thesauri. 
 
 *	Use scientific terminology rather than lay/colloquial terminology. 
     *	__neoplasms__, not cancer
