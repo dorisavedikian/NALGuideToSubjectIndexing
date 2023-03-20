@@ -1,4 +1,3 @@
-
 # Geographic Descriptors
 
 Include geographical terms under these circumstances:

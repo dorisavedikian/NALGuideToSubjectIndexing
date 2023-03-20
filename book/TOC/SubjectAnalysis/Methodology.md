@@ -1,4 +1,3 @@
-
 # Methodology and Techniques
 
 Things to consider: 

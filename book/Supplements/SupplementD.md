@@ -1,5 +1,4 @@
-
-__Supplement D: Similar NALT terms in different hierarchies__
+# Supplement D: Similar NALT terms in different hierarchies
 
 Similar or seemingly-the-same words or phrases can have very different meanings and hierarchies. Review definitions, BTs, NTs, RTs, definitions, scope notes and entry-level terms. If needed, check the full-text article to ensure that you are selecting the appropriate concept(s). 
 
