@@ -1,29 +1,78 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+
+# ===== Main Landing Page ========================================
 format: jb-book
 root: index
 parts:
-  - caption: A Guide to Subject Indexing
-    chapters:
-      - file: book/TOC/BasicIndexingGuidelines
-      - file: book/TOC/AgricolaDB
-      - file: book/TOC/MARC
-      - file: book/TOC/NAL
-      - file: book/TOC/Workflow
-      - file: book/TOC/Resources
-  - caption: Subject Analysis
-    chapters:  
-      - file: book/SubjectAnalysis/Methodology
-      - file: book/SubjectAnalysis/Basics_Taxonomic
-      - file: book/SubjectAnalysis/GeographicDescriptor 
-  - caption: Guide Supplements
-    chapters:
-      - file: book/Supplements/SupplementA
-      - file: book/Supplements/SupplementB
-      - file: book/Supplements/SupplementC
-      - file: book/Supplements/SupplementD
-      - file: book/Supplements/SupplementE
-      - file: book/Supplements/SupplementF
-
-   
+  - chapters:
+      # ===== Guide to Subject Indexing ========================================
+      - file: book/TOC/AGuide
+        sections:
+          - title: Overview
+            file: book/TOC/BasicIndexingGuidelines
+        sections:
+          - title: MARC Format
+            file: book/TOC/AgricolaDB
+        sections:
+          - title: MARC Format
+            file: book/TOC/MARC
+        sections:
+          - title: The NAL Thesaurus (NAL)
+            file: book/TOC/NAL/NAL               
+            sections:
+              - title: Proposing a new term
+                file: book/TOC/NAL/NAL2
+              - title: Creating hierarchy and relationships
+                file: book/TOC/NAL/NAL3
+          - title: Subject Analysis
+            file: book/SubjectAnalysis/SA
+            sections:
+              - title: Methodology and Techniques
+                file: book/SubjectAnalysis/Methodology
+              - title: Basics for Using Taxonomic Names
+                file: book/SubjectAnalysis/Basics_Taxonomic
+              - title: Geographic Descriptors
+                file: book/SubjectAnalysis/GeographicDescriptor
+        sections:
+          - title: Work Flow
+            file: book/TOC/Workflow   
+        sections:
+          - title: Resources
+            file: book/Resources     
+      # ===== Guide Supplements ========================================  
+      - file: book/Supplements/SupplementIntro
+        sections:
+          - title: Supplement A
+            file: book/Supplements/SupplementA
+            sections:
+              - title: Types of Articles not indexed for Agricola
+                file: book/Supplements/SupplementA2
+              - title: Probematic Articles and their solutions
+                file: book/Supplements/SuppA3
+        sections:
+          - title: Supplement B
+            file: book/Supplements/SupplementB
+            sections:
+              - title: Browsers
+                file: book/Supplements/SuppB2
+              - title: General Reference
+                file: book/Supplements/SuppB3
+              - title: Taxonomy
+                file: book/Supplements/SuppB4
+              - title: Thesaurus, glossaries and terminology
+                file: book/Supplements/SuppB5                     
+        sections:
+          - title: Supplement C - Preferred Assignment of Names for Organisms & Products
+            file: book/Supplements/SupplementC
+        sections:
+          - title: Supplement D - Similar NALT terms in different hierarchies
+            file: book/Supplements/SupplementD
+        sections:
+          - title: Supplement E - Ambiguous Concepts
+            file: book/Supplements/SupplementE               
+        sections:
+          - title: Supplement F - Checklist of Common Indexing Errors
+            file: book/Supplements/SupplementF
+      - file: book/references/bibliography

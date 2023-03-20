@@ -5,8 +5,8 @@
 
 #######################################################################################
 # Book settings
-title                         : A Guide to Subject Indexing # The title of the book. Will be placed in the left navbar.
-author                        : Doris Avedikian # The author of the book
+title                         : AGRICOLA Guide to Subject Indexing # The title of the book. Will be placed in the left navbar.
+author                        : USDA NAL IIB # The author of the book
 copyright                     : "2023" # Copyright year to be placed in the footer
 logo                          : logo.png # A path to the book logo
 exclude_patterns              : []

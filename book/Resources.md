@@ -61,7 +61,4 @@
 
 * Bonnichon, M. (1994). Guide to indexing for AGRIS and CARIS. Rome: FAO.{cite}`Bonni` See also, [this website related to the guide](https://www.fao.org/3/u1808e/U1808E00.htm#TopOfPage)
 
-## References 
-```{bibliography} /book/references/references2.bib
-:filter: docname in docnames
-```
+

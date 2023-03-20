@@ -37,8 +37,3 @@ Understand what you are annotating – do not automatically assume what an acron
 
 *	<u>vine copula:</u> “...A vine is a graphical tool for labeling constraints in high-dimensional probability distributions... Copulas are multivariate distributions with uniform univariate margins...” (Wikipedia)
 
-
-```{bibliography} /book/references/references7.bib
-:filter: docname in docnames
-```
-
