@@ -29,7 +29,7 @@ execute:
 
 launch_buttons:
   colab_url: "https://colab.research.google.com"
-  notebook_interface: "jupyterlab"
+  notebook_interface: "classic"
   binderhub_url: "https://mybinder.org"
 
 # Information about where the book exists on the web
@@ -47,6 +47,8 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   use_download_button: true
+  extra_navbar: Visit our <a href="https://github.com/dorisavedikian/NALGuideToSubjectIndexingy">GitHub Repository</a>
+    <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
   # thebe: true
   # google_analytics_id: G-XXXXXXX
 
