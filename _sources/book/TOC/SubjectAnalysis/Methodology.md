@@ -43,7 +43,3 @@ Do not select the methodology or technique routinely if it is not the main topic
 
 Some research articles give the details of the stepwise procedure of the overall analysis, such as collection of leaves, drying of leaves, milling of leaves, acid digestion of leaves, etc.  Do not index the individual stepwise procedures. 
 
-## References
-```{bibliography} /book/references/references4.bib
-:filter: docname in docnames
-```

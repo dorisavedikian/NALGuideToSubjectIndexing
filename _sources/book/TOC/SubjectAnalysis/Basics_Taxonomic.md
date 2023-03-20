@@ -171,8 +171,3 @@ A primary consideration in this section are indexing practices that will recogni
 * Assign terms in a manner that is consistent with their hierarchies, RTs, definitions and scope notes.
 * If the articles equally covers more than three species (or genus, etc.) under one genus (or family, etc.), use the genus (or family, etc.) name. 
 * Assign terms for diseases (human, animal and plant) and experimental animal models according to the sections on <u>Use of terms for diseases</u> and <u>Use of terms for experimental animal models</u>.
-
-## References
-```{bibliography} /book/references/references5.bib
-:filter: docname in docnames
-```

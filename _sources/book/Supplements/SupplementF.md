@@ -91,10 +91,6 @@ It may be helpful to use this checklist to evaluate your own indexing.
 
 [^1]: This is the case with Cogito Studio Express (CSE) but may be different with other computer-based indexing systems. 
 
-**References**
 
-```{bibliography} /book/references/references8.bib
-:filter: docname in docnames
-```
 
 

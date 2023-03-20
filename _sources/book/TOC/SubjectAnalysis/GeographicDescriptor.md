@@ -79,7 +79,7 @@ Do not include geographic terms that appear in plant or animal names unless the 
  *	“Zeins, the major storage proteins in corn (Zea mays L.) endosperms, consist of a large number of related polypeptides...This study examines the variability of zeins in ‘Reid Yellow Dent’, ‘Lancaster Sure Crop’, and eight Illinois chemical strains...”{cite}`cropscience`
  *	“...we investigate the influence of spatial structuring and social interactions on the gut microbiome composition of Welsh mountain ponies...the gut microbiome of semi-feral ponies from Snowdonia National Park is influenced by spatial structuring, social interactions, and kin relationships..."{cite}`article18` 
 
-## Assignment of geographical descriptors - Summary
+__Assignment of geographical descriptors - Summary__
 1. Do not assign geographical descriptors based solely on those terms in the common or taxonomic names of strains of bacteria and other organisms. (e.g., Newcastle disease, Egypt bee virus).
 2. The geographical origin of a strain or line can be used even if the work is done in vitro (e.g., supporting epidemiological studies of disease outbreaks). 
 3. For articles in which subjects (animals, plants, humans) migrate/invade or are imported/introduced from one country/area and studied in another, apply a geographical descriptor for the country where the subjects were studied and indicate their geographical origin, if appropriate. This applies only to living subjects studied in a natural environment (e.g., not laboratory/captive animals or museum specimens).
@@ -95,8 +95,3 @@ Do not include geographic terms that appear in plant or animal names unless the 
 [^2]: See https://whc.unesco.org/en/list/1248/
 
 [^3]: See https://en.wikipedia.org/wiki/Transnistria
-
-## References
-```{bibliography} /book/references/references6.bib
-:filter: docname in docnames
-```
