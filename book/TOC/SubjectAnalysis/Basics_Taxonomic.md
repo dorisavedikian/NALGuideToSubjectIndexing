@@ -39,6 +39,19 @@ If a role/context is an RT of the organism(s) or product(s), it may be assigned 
 
 Select the appropriate level of specificity for the common name or role/context. If uncertain, check the taxonomic name to determine the appropriate term(s).
 
+```{figure} /figures/taxonomy.png
+---
+name: taxonomy
+alt: scientific name vs. common name
+---
+Scientific Names OR Common Names. [https://doi.org/10.1016/j.cropro.2022.106012](https://doi.org/10.1016/j.cropro.2022.106012)
+```
+
+__Best Practice__
+1.	Should Capsicum AND/OR peppers, Cucumis sativus AND/OR cucumbers, Solanum lycopersicum AND/OR tomatoes, and Solanum melongena AND/OR eggplants be assigned?
+
+> Taxonomic names for plants are not mentioned in the full-text article but they do use several cultivars. The question is what is the focus? It seems that the study was trying to determine whether predatory mites were more successful in controlling the spidermites on certain plants. 
+
 Articles less than one page on insect or plant taxonomy and nomenclature as well as new cultivar and germplasm registrations are indexed.
 
 ### Q)	Plants
