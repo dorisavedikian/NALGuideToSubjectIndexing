@@ -45,7 +45,7 @@ Should Capsicum AND/OR peppers, Cucumis sativus AND/OR cucumbers, Solanum lycope
 Taxonomic names for plants are not mentioned in the full-text article but they do use several cultivars. The question is what is the focus? It seems that the study was trying to determine whether predatory mites were more successful in controlling the spidermites on certain plants. 
 ```
 ````
-```{figure} /figures/taxonomy.png
+```{figure} /figures/IndexingExample.png
 ---
 name: taxonomy
 alt: scientific name vs. common name
