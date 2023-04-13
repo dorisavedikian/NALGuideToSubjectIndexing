@@ -45,15 +45,12 @@ Should Capsicum AND/OR peppers, Cucumis sativus AND/OR cucumbers, Solanum lycope
 Taxonomic names for plants are not mentioned in the full-text article but they do use several cultivars. The question is what is the focus? It seems that the study was trying to determine whether predatory mites were more successful in controlling the spidermites on certain plants. 
 ```
 ````
-```{figure} /figures/Indexing_Example.PNG
----
-name: Indexing_Example
-alt: scientific name vs. common name
----
-Scientific Names OR Common Names.
+> __The effect of host plant on the biological control efficacy of the predatory mite, Phytoseiulus persimilis Athias-Henriot against two-spotted spidermites, Tetranychus urticae koch on field-grown vegetables.__
+>
+>__Abstract__
+>
+>Tetranychus urticae Koch (Acari: Tetranychidae) is one of the key pests causing economic losses in vegetable fields. Phytoseiulus persimilis Athias-Henriot (Acari: Phytoseiidae) is used effectively in the biological control of this mite on many vegetable crops. The present study determined how different crops such as <mark>pepper, eggplant, cucumber</mark> and <mark>tomato</mark> affected the biological control of T. urticae when using P. persimilis in the field-grown vegetables in the Çanakkale of northwestern part of Turkey in 2016 and 2017. Predatory and prey mites were released at a ratio of 1:10 predator:prey on host plants and their numbers on leaves were counted weekly for a period of 8 weeks. The highest number of T. urticae and P. persimilis were counted on <mark>cucumber</mark> with 108.70 ± 8.14 and 81.00 ± 6.00 mites per leaf in 2016, and with 113.30 ± 10.95 and 24.00 ± 4.58 mites per leaf in 2017, respectively. Also, there was a significant difference for both the populations of T. urticae and P. persimilis on the crops on all weeks in both years. It was revealed that P. persimilis markedly suppressed T. urticae on <mark>eggplant</mark> and <mark>tomato</mark> compared to <mark>pepper</mark>  and <mark>cucumber</mark> in both years. It is clear that the host crops is a key factor on the success of P. persimilis on the biological control of T. urticae on field-grown vegetables. Consequently, it is thought that these results should be taken into account in the biological control strategies of mite pests by using the predatory mites on field-grown vegetables.{cite}`hostplant`
 
-[https://doi.org/10.1016/j.cropro.2022.106012](https://doi.org/10.1016/j.cropro.2022.106012)
-```
 Articles less than one page on insect or plant taxonomy and nomenclature as well as new cultivar and germplasm registrations are indexed.
 
 ### Q)	Plants
