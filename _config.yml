@@ -46,8 +46,11 @@ html:
   use_issues_button            : True
   use_edit_page_button         : True
   use_download_button          : True
-  extra_navbar: <div> Visit our <a>href="https://github.com/dorisavedikian/NALGuideToSubjectIndexing">GitHub Repository</a>
-  This book is powered by <a>href="https://jupyterbook.org">Jupyter Book</a></div>
+  extra_navbar: 
+  <div> 
+  Visit our <a href="https://github.com/dorisavedikian/NALGuideToSubjectIndexing">GitHub Repository</a>
+  This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+  </div>
   comments:
     hypothesis: True
   parse: 
