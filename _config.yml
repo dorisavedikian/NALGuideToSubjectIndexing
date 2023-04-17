@@ -41,7 +41,7 @@ repository:
 html:
   favicon                      : "fav.ico"
   navbar_number_sections       : False 
-  baseurl                      : https://dorisavedikian.github.io/NALGuideToSubjectIndexing # The base URL where your book will be hosted.
+  baseurl                      : https://dorisavedikian.github.io/NALTGuideToSubjectIndexing # The base URL where your book will be hosted.
   use_repository_button        : True
   use_issues_button            : True
   use_edit_page_button         : True
