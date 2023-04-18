@@ -4,8 +4,6 @@ Similar or seemingly-the-same words or phrases can have very different meanings 
 
 Some examples are listed below:
 
-```{div} full-width
-
 a.	[absorption](https://lod.nal.usda.gov/nalt/1836) versus [adsorption](https://lod.nal.usda.gov/nalt/4377) 
 
 b.	[agricultural land](https://lod.nal.usda.gov/nalt/5367) versus [agricultural landscapes](https://lod.nal.usda.gov/nalt/209493)
@@ -28,17 +26,15 @@ j.	[chemical constituents of plants](https://lod.nal.usda.gov/nalt/10478) versus
 
 k.	[China](https://lod.nal.usda.gov/nalt/8937) versus [Republic of China (preferred term Taiwan)](https://lod.nal.usda.gov/nalt/25065)
 
-````{margin} *Choroid vs. Choroid plexus*
+l.	choroid (not a NALT term, MESH BT eyes -> uvea) versus [choroid plexus](https://lod.nal.usda.gov/nalt/25709), BT nervous system -> plexus)
 ```{figure} /Figures/eye_brain.png
 ---
 name: eye_brain
 alt: eyes and brains
-align: left
 scale: 50%
 ---
+Choroid vs. Choroid plexus
 ```
-````
-l.	choroid (not a NALT term, MESH BT eyes -> uvea) versus [choroid plexus](https://lod.nal.usda.gov/nalt/25709), BT nervous system -> plexus)
 
 m.	[coriander (preferred term Coriandrum sativum)](https://lod.nal.usda.gov/nalt/25112) versus [coriander leaves (preferred term cilantro)](https://lod.nal.usda.gov/nalt/26271) versus [coriander seed](https://lod.nal.usda.gov/nalt/29082)
 
@@ -123,5 +119,3 @@ zz.	Stella (not a NALT term, is a sweet cherry varietal name) versus [Stella](ht
 aaa.	[Togo (Africa)](https://lod.nal.usda.gov/nalt/66108) versus [Togo (Heteroptera)](https://lod.nal.usda.gov/nalt/61488)
 
 bbb.	[Turkey (country)](https://lod.nal.usda.gov/nalt/15650), (new accepted name Türkiye)  versus [turkeys](https://lod.nal.usda.gov/nalt/51987)
-
-```
