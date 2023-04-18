@@ -28,11 +28,13 @@ j.	[chemical constituents of plants](https://lod.nal.usda.gov/nalt/10478) versus
 
 k.	[China](https://lod.nal.usda.gov/nalt/8937) versus [Republic of China (preferred term Taiwan)](https://lod.nal.usda.gov/nalt/25065)
 
-l.	choroid (not a NALT term, MESH BT eyes -> uvea) versus [choroid plexus](https://lod.nal.usda.gov/nalt/25709), BT nervous system -> plexus) 
+l.	choroid (not a NALT term, MESH BT eyes -> uvea) versus [choroid plexus](https://lod.nal.usda.gov/nalt/25709), BT nervous system -> plexus)![An image with attribute](Figures/eye_brain.png){#imgid .bg-warning w=100px align=center}
+  {ref}`Choroid vs. Choroid plexus <imgid>`
 ```{figure} /Figures/eye_brain.png
 ---
 name: eye_brain
 alt: eyes and brains
+align: left
 ---
 Choroid vs. Choroid plexus
 ```

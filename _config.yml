@@ -55,6 +55,7 @@ html:
     hypothesis: True
   parse: 
     myst_enable_extensions: html_image
+                            attrs_inline
 
 #######################################################################################
 # Advanced and power-user settings
