@@ -28,10 +28,7 @@ j.	[chemical constituents of plants](https://lod.nal.usda.gov/nalt/10478) versus
 
 k.	[China](https://lod.nal.usda.gov/nalt/8937) versus [Republic of China (preferred term Taiwan)](https://lod.nal.usda.gov/nalt/25065)
 
-l.	choroid (not a NALT term, MESH BT eyes -> uvea) versus [choroid plexus](https://lod.nal.usda.gov/nalt/25709), BT nervous system -> plexus)
-
-![An image with attribute](Figures/eye_brain.png){#imgid w=100px align=center}{ref}`Choroid vs. Choroid plexus <imgid>`
-
+````{margin} *Choroid vs. Choroid plexus*
 ```{figure} /Figures/eye_brain.png
 ---
 name: eye_brain
@@ -39,8 +36,10 @@ alt: eyes and brains
 align: left
 scale: 50%
 ---
-Choroid vs. Choroid plexus
 ```
+````
+l.	choroid (not a NALT term, MESH BT eyes -> uvea) versus [choroid plexus](https://lod.nal.usda.gov/nalt/25709), BT nervous system -> plexus)
+
 m.	[coriander (preferred term Coriandrum sativum)](https://lod.nal.usda.gov/nalt/25112) versus [coriander leaves (preferred term cilantro)](https://lod.nal.usda.gov/nalt/26271) versus [coriander seed](https://lod.nal.usda.gov/nalt/29082)
 
 n.	[crop (digestive system)](https://lod.nal.usda.gov/nalt/30108) versus [crops] (https://lod.nal.usda.gov/nalt/7140)
