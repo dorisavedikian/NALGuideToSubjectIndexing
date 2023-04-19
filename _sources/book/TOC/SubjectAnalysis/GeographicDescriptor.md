@@ -29,11 +29,26 @@ Geographical terms should be added for living subjects studied in the natural en
 Some countries, states and regions have narrower or related concepts. It may be necessary to research which term is the correct one(s) to annotate. 
  *	“In 2019, leaves with anthracnose symptoms were observed on pitcher plants (Sarracenia purpurea subsp. purpurea f. heterophylla) in Okinawa Prefecture, Japan...”{cite}`anthracnose` __Okinawa__ is an entry-level term for __Ryukyu Archipelago__, an NT of __Japan__. 
  *	“...we develop a novel semi‐quantitative metabarcoding approach that combines specimen counts and size‐sorting to characterize arthropod community‐level diversity patterns along elevational transects on two different volcanoes of the island of Hawai‘i...”{cite}`molecular`. The study is being done specifically on __Hawaii (island)__, not across multiple islands of __Hawaii__.
+```{figure} /Figures/Hawaii.png
+---
+name: Hawaii
+alt: Image cannot be displayed
+---
+Island of Hawaii
+```
  *	"Losses of C and N from the forest floor and top 20-cm of soil were estimated following separate severe wildfires at two Long-Term Soil Productivity sites in the Sierra Nevada of California, USA. Experimental treatments applied 20 years prior to the wildfires..."{cite}`Zhang_2023`v Since they are related (not BT-NT), both __California__ and __Sierra Nevada (California)__ can be annotated. See discussion below on __Named Geographical Regions.__
 
 Do not assume that a cardinal direction is part of an official state, territory or country name and not just indicating a part of the state, territory or country. If the study area is not clear in the abstract, check the full text for any maps or descriptions. 
  *	“...we present and examine a relatively dense network of wood property chronologies...from several species in __Tasmania__, southern Australia...”{cite}`ALLEN2022`
  *	"... Our study area consisted of 26 sites in western Virginia within the Blue Ridge, Ridge and Valley, and Appalachian Plateau physiographic provinces, extending from Highland County in the north to Lee County in the southwest...”{cite}`Eagle` Maps in the full text articles confirm the study area is in the southwestern corner of __Virginia__. 
+```{figure} /Figures/WVirginia.png
+---
+name: WVirginia
+alt: Image cannot be displayed
+scale: 70%
+---
+Southwestern corner of Virginia
+```
  *	"...The South African soil data, together with the SOTER data of Angola, Botswana, eSwatini (previously Swaziland), Namibia, Mozambique, Tanzania, and Zimbabwe formed the SOTERSAF database..."{cite}`BODENSTEIN2022` A map showing the study area confirms it covers Angola, Botswana, eSwatini, Namibia, Mozambique, South Africa, Tanzania, and Zimbabwe so __Southern Africa__ would be annotated. 
 
 If they are specifically mentioned in the article, __Named Geographical Regions__ may be annotated alongside country/state names, particularly those comprising a large area covering several countries, states or bodies of water; denoting a particular area of a country or continent; and/or representing an environment different (e.g., climatically, geomorphologically, culturally) from other parts of that country or state. 
