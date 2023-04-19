@@ -379,7 +379,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -395,6 +397,14 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#some-examples-are-listed-below">Some examples are listed below:</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -407,7 +417,8 @@ document.write(`
   <section class="tex2jax_ignore mathjax_ignore" id="supplement-d-similar-nalt-terms-in-different-hierarchies">
 <h1>Supplement D: Similar NALT terms in different hierarchies<a class="headerlink" href="#supplement-d-similar-nalt-terms-in-different-hierarchies" title="Permalink to this heading">#</a></h1>
 <p>Similar or seemingly-the-same words or phrases can have very different meanings and hierarchies. Review definitions, BTs, NTs, RTs, definitions, scope notes and entry-level terms. If needed, check the full-text article to ensure that you are selecting the appropriate concept(s).</p>
-<p>Some examples are listed below:</p>
+<section id="some-examples-are-listed-below">
+<h2>Some examples are listed below:<a class="headerlink" href="#some-examples-are-listed-below" title="Permalink to this heading">#</a></h2>
 <p>a.	<a class="reference external" href="https://lod.nal.usda.gov/nalt/1836">absorption</a> versus <a class="reference external" href="https://lod.nal.usda.gov/nalt/4377">adsorption</a></p>
 <p>b.	<a class="reference external" href="https://lod.nal.usda.gov/nalt/5367">agricultural land</a> versus <a class="reference external" href="https://lod.nal.usda.gov/nalt/209493">agricultural landscapes</a></p>
 <p>c.	<a class="reference external" href="https://lod.nal.usda.gov/nalt/50709">Alegria (preferred term Luehea)</a> versus Alegria (not in NALT, place name in Brazil, Philippines, Spain, El Salvador and Turkey or a Mexican snack food, among other possible definitions)</p>
@@ -469,6 +480,7 @@ document.write(`
 <p>aaa.	<a class="reference external" href="https://lod.nal.usda.gov/nalt/66108">Togo (Africa)</a> versus <a class="reference external" href="https://lod.nal.usda.gov/nalt/61488">Togo (Heteroptera)</a></p>
 <p>bbb.	<a class="reference external" href="https://lod.nal.usda.gov/nalt/15650">Turkey (country)</a>, (new accepted name Türkiye)  versus <a class="reference external" href="https://lod.nal.usda.gov/nalt/51987">turkeys</a></p>
 </section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -528,6 +540,20 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#some-examples-are-listed-below">Some examples are listed below:</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
