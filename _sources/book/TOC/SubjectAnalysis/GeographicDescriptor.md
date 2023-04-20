@@ -29,7 +29,7 @@ Geographical terms should be added for living subjects studied in the natural en
 Some countries, states and regions have narrower or related concepts. It may be necessary to research which term is the correct one(s) to annotate. 
  *	“In 2019, leaves with anthracnose symptoms were observed on pitcher plants (Sarracenia purpurea subsp. purpurea f. heterophylla) in Okinawa Prefecture, Japan...”{cite}`anthracnose` __Okinawa__ is an entry-level term for __Ryukyu Archipelago__, an NT of __Japan__. 
  *	“...we develop a novel semi‐quantitative metabarcoding approach that combines specimen counts and size‐sorting to characterize arthropod community‐level diversity patterns along elevational transects on two different volcanoes of the island of Hawai‘i...”{cite}`molecular`. The study is being done specifically on __Hawaii (island)__, not across multiple islands of __Hawaii__.
-```{figure} /Figures/Hawaii.png
+```{figure} /Figures/hawaii.jpeg
 ---
 name: Hawaii
 alt: Image cannot be displayed
@@ -41,11 +41,11 @@ Island of Hawaii
 Do not assume that a cardinal direction is part of an official state, territory or country name and not just indicating a part of the state, territory or country. If the study area is not clear in the abstract, check the full text for any maps or descriptions. 
  *	“...we present and examine a relatively dense network of wood property chronologies...from several species in __Tasmania__, southern Australia...”{cite}`ALLEN2022`
  *	"... Our study area consisted of 26 sites in western Virginia within the Blue Ridge, Ridge and Valley, and Appalachian Plateau physiographic provinces, extending from Highland County in the north to Lee County in the southwest...”{cite}`Eagle` Maps in the full text articles confirm the study area is in the southwestern corner of __Virginia__. 
-```{figure} /Figures/WVirginia.png
+```{figure} /Figures/virginia.jpeg
 ---
-name: WVirginia
+name: Virginia
 alt: Image cannot be displayed
-scale: 70%
+scale: 40%
 ---
 Southwestern corner of Virginia
 ```
