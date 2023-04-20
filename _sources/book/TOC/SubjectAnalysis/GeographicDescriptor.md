@@ -33,6 +33,7 @@ Some countries, states and regions have narrower or related concepts. It may be 
 ---
 name: Hawaii
 alt: Image cannot be displayed
+scale: 70%
 ---
 Island of Hawaii
 ```
